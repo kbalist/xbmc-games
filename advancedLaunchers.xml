@@ -3,16 +3,16 @@
 	<launcher>
 		<id>25fe2eb554ce489441409b801452e1a0</id>
 		<name>Config</name>
-		<application>/media/data/games/_common/settings/bash</application>
+		<application>/media/data/games/_settings/bash</application>
 		<args>"%rom%"</args>
-		<rompath>/media/data/games/_common/settings/</rompath>
+		<rompath>/media/data/games/_settings/</rompath>
 		<thumbpath>/media/data/games/_common/launcherThumb/</thumbpath>
 		<fanartpath>/media/data/games/_common/launcherThumb2/</fanartpath>
 		<extrafanartpath>/media/data/games/_common/launcherThumb2/</extrafanartpath>
 		<romext>sh</romext>
 		<platform>Linux</platform>
-		<thumb>/media/data/games/_common/settings.png</thumb>
-		<fanart>/media/data/games/_common/settings_fanart.jpg</fanart>
+		<thumb>/media/data/games/_settings.png</thumb>
+		<fanart>/media/data/games/_settings_fanart.jpg</fanart>
 		<genre></genre>
 		<release></release>
 		<publisher></publisher>
@@ -23,7 +23,7 @@
 			<rom>
 				<id>13a70d77f62d1c3919480849e25a22d9</id>
 				<name>conf-gamecube</name>
-				<filename>/media/data/games/_common/settings/conf-gamecube.sh</filename>
+				<filename>/media/data/games/_settings/conf-gamecube.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/gamecube/extra/gamecube.png</thumb>
 				<fanart>/media/data/games/gamecube/extra/gamecube_fanart.jpg</fanart>
@@ -36,7 +36,7 @@
 			<rom>
 				<id>8de77e3953459fa95fd03186ddca45f2</id>
 				<name>conf-megadrive</name>
-				<filename>/media/data/games/_common/settings/conf-megadrive.sh</filename>
+				<filename>/media/data/games/_settings/conf-megadrive.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/megadrive/extra/megadrive.png</thumb>
 				<fanart>/media/data/games/megadrive/extra/megadrive_fanart.jpg</fanart>
@@ -49,7 +49,7 @@
 			<rom>
 				<id>605c994b82aa798eb2e31302080b574e</id>
 				<name>conf-n64</name>
-				<filename>/media/data/games/_common/settings/conf-n64.sh</filename>
+				<filename>/media/data/games/_settings/conf-n64.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/n64/extra/n64.png</thumb>
 				<fanart>/media/data/games/n64/extra/n64_fanart.jpg</fanart>
@@ -62,7 +62,7 @@
 			<rom>
 				<id>ee3ca62bf118e30acc779ef13da9afd8</id>
 				<name>conf-nes</name>
-				<filename>/media/data/games/_common/settings/conf-nes.sh</filename>
+				<filename>/media/data/games/_settings/conf-nes.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/nes/extra/nes.png</thumb>
 				<fanart>/media/data/games/nes/extra/nes_fanart.jpg</fanart>
@@ -75,7 +75,7 @@
 			<rom>
 				<id>8a7321ae4e874f5dfa4d56398b1e2ca1</id>
 				<name>conf-nes-pad1</name>
-				<filename>/media/data/games/_common/settings/conf-nes-pad1.sh</filename>
+				<filename>/media/data/games/_settings/conf-nes-pad1.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/nes/extra/nes.png</thumb>
 				<fanart>/media/data/games/nes/extra/nes_fanart.jpg</fanart>
@@ -88,7 +88,7 @@
 			<rom>
 				<id>ca2b59ff8625cf7522d7812eb1a43e9c</id>
 				<name>conf-nes-pad2</name>
-				<filename>/media/data/games/_common/settings/conf-nes-pad2.sh</filename>
+				<filename>/media/data/games/_settings/conf-nes-pad2.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/nes/extra/nes.png</thumb>
 				<fanart>/media/data/games/nes/extra/nes_fanart.jpg</fanart>
@@ -101,7 +101,7 @@
 			<rom>
 				<id>48c79284c43e227bc1b9a95d890933e1</id>
 				<name>conf-psx</name>
-				<filename>/media/data/games/_common/settings/conf-psx.sh</filename>
+				<filename>/media/data/games/_settings/conf-psx.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/psx/extra/psx.png</thumb>
 				<fanart>/media/data/games/psx/extra/psx_fanart.jpg</fanart>
@@ -114,7 +114,7 @@
 			<rom>
 				<id>7e9551142eab953feeb543ea1e711e2f</id>
 				<name>conf-psx2</name>
-				<filename>/media/data/games/_common/settings/conf-psx2.sh</filename>
+				<filename>/media/data/games/_settings/conf-psx2.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/psx2/extra/psx2.png</thumb>
 				<fanart>/media/data/games/psx/extra/psx2_fanart.jpg</fanart>
@@ -127,7 +127,7 @@
 			<rom>
 				<id>c519551c187a92ac921f03a24a9bdb15</id>
 				<name>conf-snes</name>
-				<filename>/media/data/games/_common/settings/conf-snes.sh</filename>
+				<filename>/media/data/games/_settings/conf-snes.sh</filename>
 				<platform>Linux</platform>
 				<thumb>/media/data/games/snes/snes.png</thumb>
 				<fanart>/media/data/games/snes/extra/snes_fanart.png</fanart>
