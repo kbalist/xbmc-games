@@ -14,7 +14,8 @@ First of all thanks to :
 * xbmc
 * http://code.google.com/p/xbmc-advanced-launcher/
 * http://www.gwenael.org/xbmc/index.php?title=Main_Page
-* <iconspedia|http://www.iconspedia.com/pack/all-console-143/30.html>
+* http://www.iconspedia.com/pack/all-console-143/30.html
+* [iwakun](http://www.reddit.com/user/iwakun)
 
 
 
