@@ -35,8 +35,14 @@ Based on "AdvancedLauncher", it will help you in setupping [Advanced Launcher](h
 in a more practical way than the gui (as you already have to do to install the required emulators)
 
 - install advanced launcher (from what i know, the only way is to install it via a zip file)
-- install emulators (we will configure them after)
-  `sudo apt-get install dolphin-emu  mupen64plus fceux gfceux pcsx pcsx2 zsnes`
+- install these emulators : 
+  - dolphin-emu  
+  - mupen64plus
+  - fceux
+  - gfceux
+  - pcsx
+  - pcsx2
+  - zsnes
 - install configuration or link to it (works fine) : advancedLaunchers.xml
 - Now you need to configure each emulator, first by command line, then with interface (a mouse is mandatory)
 
