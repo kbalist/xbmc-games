@@ -11,11 +11,10 @@ RetroGamez for XBMC (AdvancedLauncher Preset)
 
 First of all thanks to : 
 
-* xbmc
-* http://code.google.com/p/xbmc-advanced-launcher/
+* [XBMC] (http://xbmc.org)
+* [Advanced Launcher](http://code.google.com/p/xbmc-advanced-launcher/)
 * http://www.gwenael.org/xbmc/index.php?title=Main_Page
-* http://www.iconspedia.com/pack/all-console-143/30.html
-* [iwakun](http://www.reddit.com/user/iwakun)
+* [iconspedia](http://www.iconspedia.com/pack/all-console-143/30.html)
 
 
 
@@ -23,7 +22,7 @@ Usage:
 ------
 
 This fileset prepare all the work to transform your XBMC into a perfect console emulator.
-Before installing this fileset, you need an operating XBMC installation (I use XBMC live),and the plugin "<Advanced Launcher|http://code.google.com/p/xbmc-advanced-launcher/>"
+Before installing this fileset, you need an operating XBMC installation (I use XBMC live),and the plugin "[Advanced Launcher](http://www.gwenael.org/xbmc/index.php?title=Main_Page)"
 
 
 
