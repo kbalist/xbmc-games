@@ -12,6 +12,7 @@ RetroGamez for XBMC (AdvancedLauncher Preset)
 First of all thanks to : 
 
 * [XBMC](http://xbmc.org)
+* http://code.google.com/p/xbmc-launcher/
 * [Advanced Launcher](http://code.google.com/p/xbmc-advanced-launcher/)
 * http://www.gwenael.org/xbmc/index.php?title=Main_Page
 * http://www.mythtv.org/wiki/Configuring_MythGame_Emulation
@@ -27,6 +28,9 @@ First of all thanks to :
 Usage:
 ------
 
+First Step
+^^^^^^^^^^^
+
 This fileset prepare all the work to transform your XBMC Live into a perfect console emulator.
 
 Before installing this fileset, you need an operating XBMC installation (I use XBMC live),and the plugin "[Advanced Launcher](http://www.gwenael.org/xbmc/index.php?title=Main_Page)"
@@ -34,20 +38,19 @@ Before installing this fileset, you need an operating XBMC installation (I use X
 Based on "AdvancedLauncher", it will help you in setupping [Advanced Launcher](http://www.gwenael.org/xbmc/index.php?title=Main_Page)
 in a more practical way than the gui (as you already have to do to install the required emulators)
 
-- install advanced launcher (from what i know, the only way is to install it via a zip file)
-- install these emulators : 
+- install a windows manager : [Tuto](http://code.google.com/p/xbmc-launcher/wiki/Linux_Emulators#Adding_a_Windows_Manager_for_XBMC-Live)
+- maximize font-size for TV : [Tuto](http://code.google.com/p/xbmc-launcher/wiki/Linux_Emulators#Font_is_too_small_in_Emulator's_Gui)
+- install advanced launcher ( [Download](http://code.google.com/p/xbmc-advanced-launcher/downloads/list))
+- install these emulators (ubuntu doc is often a good starting point): 
   - dolphin-emu  
-  - mupen64plus
-  - fceux
-  - gfceux
-  - pcsx
+  - mupen64plus : [Help](http://www.gwenael.org/xbmc/index.php?title=Mupen64_Plus#Linux)
+  - fceux / gfceux : [Help](http://www.gwenael.org/xbmc/index.php?title=FCEUX#Linux)
+  - pcsx : [Help](http://www.gwenael.org/xbmc/index.php?title=PCSX-Reloaded#Linux)
   - pcsx2
-  - zsnes
-- install configuration or link to it (works fine) : advancedLaunchers.xml
+  - zsnes : [Help](http://www.gwenael.org/xbmc/index.php?title=ZSNES#Linux)
+- install Advanced Launcher config or link to it (works fine)
 - Now you need to configure each emulator, first by command line, then with interface (a mouse is mandatory)
-
-
-
+- if it's painfull, it's normal. Continue you're on good way, feel free 
 
 
 
@@ -61,7 +64,7 @@ TODO:
 
 2. make a check / install script
 
-11. Add support to other operating systems: Windows, Mac (if someone is interested ...)
+11. Add support to other operating systems: Windows, Mac (if someone want to do this ...)
 
 
 
