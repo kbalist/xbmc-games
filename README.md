@@ -14,6 +14,7 @@ First of all thanks to :
 * [XBMC](http://xbmc.org)
 * [Advanced Launcher](http://code.google.com/p/xbmc-advanced-launcher/)
 * http://www.gwenael.org/xbmc/index.php?title=Main_Page
+* http://www.mythtv.org/wiki/Configuring_MythGame_Emulation
 * ZSNES
 * FCEUX / GFCEUX
 * PCSX
@@ -37,21 +38,20 @@ in a more practical way than the gui (as you already have to do to install the r
 - install emulators (we will configure them after)
   `sudo apt-get install dolphin-emu  mupen64plus fceux gfceux pcsx pcsx2 zsnes`
 - install configuration or link to it (works fine) : advancedLaunchers.xml
-- L
+- Now you need to configure each emulator, first by command line, then with interface (a mouse is mandatory)
 
 
 
 
-Contributors:
--------------
 
-* Kbalist
 
 
 TODO:
 -----
 
-1. Add neogeo support
+1. Add neogeo support (in progress)
+
+2. push my emulator config files as examples
 
 2. make a check / install script
 
