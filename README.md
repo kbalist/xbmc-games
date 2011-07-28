@@ -8,6 +8,13 @@ RetroGamez for XBMC (AdvancedLauncher Preset)
 * Website:   
 * GitHub:    <https://github.com/kbalist/xbmc-games>
 
+
+First of all thanks to : 
+
+* xbmc
+* http://www.iconspedia.com/pack/all-console-143/30.html
+
+
 This free fileset is copyleft licensed under the same terms as Python, or,
 at your option, under version 2 of the GPL license.
 
