@@ -142,7 +142,7 @@
 		<launcher>
 			<id>3ea7df6ddef2e6f2f68e399553588869</id>
 			<name>GameCube</name>
-			<application>${path}/gamecube/gamecube.sh</application>
+			<application>${path}/gamecube/dolphin-emu.sh</application>
 			<args>"%rom%"</args>
 			<rompath>${path}/gamecube/roms/</rompath>
 			<thumbpath>${path}/gamecube/extra/thumb/</thumbpath>
@@ -163,7 +163,7 @@
 		<launcher>
 			<id>5f5261c9778df22051568d4c9767543a</id>
 			<name>Megadrive</name>
-			<application>${path}/megadrive/megadrive.sh</application>
+			<application>${path}/megadrive/gens.sh</application>
 			<args>"%rom%"</args>
 			<rompath>${path}/megadrive/roms/</rompath>
 			<thumbpath>${path}/megadrive/extra/thumb/</thumbpath>
@@ -184,7 +184,7 @@
 		<launcher>
 			<id>f5c6a5681892b3518f436b6d7e818daf</id>
 			<name>Nes</name>
-			<application>${path}/nes/nes.sh</application>
+			<application>${path}/nes/fceux.sh</application>
 			<args>"%rom%"</args>
 			<rompath>${path}/nes/roms/</rompath>
 			<thumbpath>${path}/nes/extra/thumb/</thumbpath>
@@ -205,7 +205,7 @@
 		<launcher>
 			<id>866a4c17f54e41baa9e6e79a9c99279f</id>
 			<name>Nintendo 64</name>
-			<application>${path}/n64/n64.sh</application>
+			<application>${path}/n64/mupen64plus.sh</application>
 			<args>"%rom%"</args>
 			<rompath>${path}/n64/roms/</rompath>
 			<thumbpath>${path}/n64/extra/thumb/</thumbpath>
@@ -226,7 +226,7 @@
 		<launcher>
 			<id>d3cd436bda5b4130fe1c087c1b404823</id>
 			<name>Playstation</name>
-			<application>${path}/psx/psx.sh</application>
+			<application>${path}/psx/pcsx.sh</application>
 			<args>"%rom%"</args>
 			<rompath>${path}/psx/roms/</rompath>
 			<thumbpath>${path}/psx/extra/thumb/</thumbpath>
@@ -247,7 +247,7 @@
 		<launcher>
 			<id>a39529dc13949e48081f84565780e989</id>
 			<name>Playstation 2</name>
-			<application>${path}/psx2/psx2.sh</application>
+			<application>${path}/psx2/pcsx2.sh</application>
 			<args>"%rom%"</args>
 			<rompath>${path}/psx2/roms/</rompath>
 			<thumbpath>${path}/psx2/extra/thumb/</thumbpath>
@@ -268,7 +268,7 @@
 		<launcher>
 			<id>d605a01b32fa7a76cda11938344f4295</id>
 			<name>Super Nintendo</name>
-			<application>${path}/snes/snes.sh</application>
+			<application>${path}/snes/zsnes.sh</application>
 			<args>"%rom%"</args>
 			<rompath>${path}/snes/roms/</rompath>
 			<thumbpath>${path}/snes/extra/thumb/</thumbpath>

@@ -6,7 +6,7 @@ from string import Template
 
 ROOT = os.getcwd()
 TPL  = os.path.join(ROOT,'advancedLaunchers.tpl.xml')
-DEST = os.path.join(ROOT,'advancedLaunchers22.xml')
+DEST = os.path.join(ROOT,'advancedLaunchers.xml')
 DICO = dict(path=ROOT)
 
 
