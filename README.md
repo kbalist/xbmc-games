@@ -36,20 +36,17 @@ Requirements:
   - zsnes : [Help](http://www.gwenael.org/xbmc/index.php?title=ZSNES#Linux)
 
 
-Tips:
------
-
-* maximize font-size for TV : [Tuto](http://code.google.com/p/xbmc-launcher/wiki/Linux_Emulators#Font_is_too_small_in_Emulator's_Gui)
-
-
 Usage:
 ------
-
 
 - install Advanced Launcher config or link to it (works fine)
 - Now you need to configure each emulator, first by command line, then with interface (a mouse is mandatory)
 - if it's painfull, it's normal. Continue you're on good way, feel free 
 
+Tips:
+-----
+
+* maximize font-size for TV : [Tuto](http://code.google.com/p/xbmc-launcher/wiki/Linux_Emulators#Font_is_too_small_in_Emulator's_Gui)
 
 
 

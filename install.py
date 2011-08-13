@@ -18,7 +18,7 @@ def findConf(soft):
 		'zsnes' : '~/.zsnes/zsnesl.cfg'
     }
     for app, confPath in applications.iteritems():
-        if (app.find(app) > 0):
+		if (app.find(app) > 0):
             return confPath
 	print "CANT FIND CONFIGURATION"
     return ""

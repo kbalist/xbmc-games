@@ -4,29 +4,41 @@ import os
 from string import Template
 
 
+ROOT = os.getcwd()
+TPL  = os.path.join(ROOT,'advancedLaunchers.tpl.xml')
+DEST = os.path.join(ROOT,'advancedLaunchers22.xml')
+DICO = dict(path=ROOT)
+
 
 def updateConf():
-	tpl = 'advancedLaunchers.xml.tpl'
-	dest = 'advancedLaunchers.xml'
+	if not os.path.isfile(TPL):
+		return False
+				
+#	if os.path.isfile(DEST)
 	
-	ROOT = os.getcwd()
-#	print ROOT
-	
-	f = open(tpl, 'r+')
+	f = open(TPL, 'r+')
 	confTpl = f.read()
-#	print contents
 	
-#	f = open('/tmp/workfile', 'r+')
-#	>>> f.write('0123456789abcdef')
+	newConfTpl = Template( confTpl ).substitute( DICO )
 	
-#	confTpl = '<application>${path}_settings/bash</application>'
-
-	template = Template(confTpl)
+	sortie = open( DEST, "w")
+	sortie.writelines(newConfTpl)
+	sortie.close()
 	
-#	print confTpl
-#	print confTpl%{"path": ROOT}
-	print template.substitute(dict(path=ROOT))
+#	print newConfTpl
 
 
+
+
+
+
+	
+	g = open(DEST, 'r+')
+	g.write(newConfTpl)
+		
+#	confTpl = '<application>${path}/_settings/bash</application>'
+
+#	template = Template(confTpl)
+#	replace = template.substitute(dict(path=ROOT))
 
 updateConf()
