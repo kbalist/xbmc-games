@@ -23,7 +23,7 @@
 			<rom>
 				<id>13a70d77f62d1c3919480849e25a22d9</id>
 				<name>conf-gamecube</name>
-				<filename>${path}/_settings/conf-gamecube.sh</filename>
+				<filename>${path}/_settings/gamecube-conf.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/gamecube/extra/gamecube.png</thumb>
 				<fanart>${path}/gamecube/extra/gamecube_fanart.jpg</fanart>
@@ -36,7 +36,7 @@
 			<rom>
 				<id>8de77e3953459fa95fd03186ddca45f2</id>
 				<name>conf-megadrive</name>
-				<filename>${path}/_settings/conf-megadrive.sh</filename>
+				<filename>${path}/_settings/megadrive-conf.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/megadrive/extra/megadrive.png</thumb>
 				<fanart>${path}/megadrive/extra/megadrive_fanart.jpg</fanart>
@@ -49,7 +49,7 @@
 			<rom>
 				<id>605c994b82aa798eb2e31302080b574e</id>
 				<name>conf-n64</name>
-				<filename>${path}/_settings/conf-n64.sh</filename>
+				<filename>${path}/_settings/n64-conf.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/n64/extra/n64.png</thumb>
 				<fanart>${path}/n64/extra/n64_fanart.jpg</fanart>
@@ -62,7 +62,7 @@
 			<rom>
 				<id>ee3ca62bf118e30acc779ef13da9afd8</id>
 				<name>conf-nes</name>
-				<filename>${path}/_settings/conf-nes.sh</filename>
+				<filename>${path}/_settings/nes-conf.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/nes/extra/nes.png</thumb>
 				<fanart>${path}/nes/extra/nes_fanart.jpg</fanart>
@@ -75,7 +75,7 @@
 			<rom>
 				<id>8a7321ae4e874f5dfa4d56398b1e2ca1</id>
 				<name>conf-nes-pad1</name>
-				<filename>${path}/_settings/conf-nes-pad1.sh</filename>
+				<filename>${path}/_settings/nes-conf-pad1.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/nes/extra/nes.png</thumb>
 				<fanart>${path}/nes/extra/nes_fanart.jpg</fanart>
@@ -88,7 +88,7 @@
 			<rom>
 				<id>ca2b59ff8625cf7522d7812eb1a43e9c</id>
 				<name>conf-nes-pad2</name>
-				<filename>${path}/_settings/conf-nes-pad2.sh</filename>
+				<filename>${path}/_settings/nes-conf-pad2.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/nes/extra/nes.png</thumb>
 				<fanart>${path}/nes/extra/nes_fanart.jpg</fanart>
@@ -101,7 +101,7 @@
 			<rom>
 				<id>48c79284c43e227bc1b9a95d890933e1</id>
 				<name>conf-psx</name>
-				<filename>${path}/_settings/conf-psx.sh</filename>
+				<filename>${path}/_settings/psx-conf.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/psx/extra/psx.png</thumb>
 				<fanart>${path}/psx/extra/psx_fanart.jpg</fanart>
@@ -114,7 +114,7 @@
 			<rom>
 				<id>7e9551142eab953feeb543ea1e711e2f</id>
 				<name>conf-psx2</name>
-				<filename>${path}/_settings/conf-psx2.sh</filename>
+				<filename>${path}/_settings/psx2-conf.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/psx2/extra/psx2.png</thumb>
 				<fanart>${path}/psx/extra/psx2_fanart.jpg</fanart>
@@ -127,7 +127,7 @@
 			<rom>
 				<id>c519551c187a92ac921f03a24a9bdb15</id>
 				<name>conf-snes</name>
-				<filename>${path}/_settings/conf-snes.sh</filename>
+				<filename>${path}/_settings/snes-conf.sh</filename>
 				<platform>Linux</platform>
 				<thumb>${path}/snes/snes.png</thumb>
 				<fanart>${path}/snes/extra/snes_fanart.png</fanart>
