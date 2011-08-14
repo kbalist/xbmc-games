@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import libxml2, sys, os
+import sys, os
 from string import Template
 from xml.dom.minidom import parse
 
@@ -26,15 +26,17 @@ def writeConf(content):
 
 def checkConf():
 	dom = parse(DEST)
-	checkFileFromXML(dom, 'filename')
-	checkFileFromXML(dom, 'application')
+	nodeToCheck = ['filename', 'application', 'thumb', 'fanart']
+	for e in nodeToCheck:
+		checkNodeFileExist(dom, e)
 
-def checkFileFromXML(dom, search):
+def checkNodeFileExist(dom, search):
 	app = dom.getElementsByTagName(search)
 	for e in app:
 		e = getText(e)
 		if not os.path.isfile(e):
 			print "[!] WARNING : CAN'T FIND ",e
+
 
 def updateConf():
 	confTpl = readConf(TPL)
