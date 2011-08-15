@@ -23,4 +23,9 @@
 #	-ad : audio driver : sdl
 ####################################
 
+#tricks to reduce volume level
+amixer -c 0 sset Master,0 70%
 /usr/bin/zsnes -m -s -v 18 -ad sdl -r 6 "$1"
+amixer -c 0 sset Master,0 100%
+
+
