@@ -2,11 +2,18 @@
 
 '''install.py: RetroGamez install script.'''
 
-ROOT = os.pwd()
+import sys, os
+from string import Template
+from xml.dom.minidom import parse
+
+TPLFILE  = 'advancedLaunchers.tpl.xml'
+TPL  = os.path.join(os.getcwd(), TPLFILE)
+
+print " => RetroGamez Wizzard <="
 
 
-print "Hello, I'm RetroGamez Wizzard"
 
+''''''
 def findConf(soft):
 	applications = {
 		'dolphin-emu' : '',
@@ -17,14 +24,13 @@ def findConf(soft):
 		'pcsx' : '',
 		'zsnes' : '~/.zsnes/zsnesl.cfg'
     }
-    for app, confPath in applications.iteritems():
+	for app, confPath in applications.iteritems():
 		if (app.find(app) > 0):
-            return confPath
+			return confPath
 	print "CANT FIND CONFIGURATION"
-    return ""
+	return ""
 
-
-def linkConf(console)
+def linkConf(console):
 	applications = {
 		'gamecube' : 'dolphin-emu',
 		'megadrive' : 'gens',
@@ -34,14 +40,64 @@ def linkConf(console)
 		'psx' : 'pcsx',
 		'snes' : 'zsnes'
     }
-    for app, soft in applications.iteritems():
-        if (app.find(app) > 0):
-			# cd folder
-			# getCon
+	for app, soft in applications.iteritems():
+		if (app.find(app) > 0):
 			print findConf(soft)
 	print "CANT FIND CONFIGURATION"
-    return ""
+	return ""
 
+''''''
+def install(root):
+	if not os.path.isfile(TPL):
+		error("NO TEMPLATE FOUND FOR CONF : ",TPLFILE)
+		return False
+	conffile = createXMLConf(root)
+	checkXMLConf(conffile)
+	
+
+
+def createXMLConf(confpath):
+	DEST = os.path.join(confpath,'advancedLaunchers.xml')
+
+	f = open(TPL, 'r+')
+	confTpl = f.read()
+	newContent = Template( confTpl ).substitute( dict(path=confpath) )
+	sortie = open( DEST, "w")
+	sortie.writelines(newContent)
+	sortie.close()
+	
+	if os.path.isfile(DEST):
+		return DEST
+	return False
+
+def checkXMLConf(conffile):
+	dom = parse(conffile)
+	nodeToCheck = ['filename', 'application', 'thumb', 'fanart']
+	for e in nodeToCheck:
+		checkXMLNodeFileExist(dom, e)
+	return True
+
+def error(msg):
+	print "[!] WARNING : ", msg
+	return False
+
+
+
+def checkXMLNodeFileExist(dom, search):
+	app = dom.getElementsByTagName(search)
+	for e in app:
+		e = getXMLText(e)
+		if not os.path.isfile(e):
+			error("CAN'T FIND ", e)
+			return False
+	return True
+
+
+def getXMLText(node):
+	return node.childNodes[0].nodeValue
+
+
+install(os.getcwd())
 
 '''
 echo "* SETTINGS"

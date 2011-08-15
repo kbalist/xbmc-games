@@ -3,7 +3,7 @@
 	<launcher>
 		<id>25fe2eb554ce489441409b801452e1a0</id>
 		<name>Config</name>
-		<application>${path}/_settings/bash</application>
+		<application>/bin/bash</application>
 		<args>"%rom%"</args>
 		<rompath>${path}/_settings/</rompath>
 		<thumbpath>${path}/_common/launcherThumb/</thumbpath>
@@ -11,8 +11,8 @@
 		<extrafanartpath>${path}/_common/launcherThumb2/</extrafanartpath>
 		<romext>sh</romext>
 		<platform>Linux</platform>
-		<thumb>${path}/_settings.png</thumb>
-		<fanart>${path}/_settings_fanart.jpg</fanart>
+		<thumb>${path}/_settings/settings-icon.png</thumb>
+		<fanart>${path}/_settings/settings-fanart.jpg</fanart>
 		<genre></genre>
 		<release></release>
 		<publisher></publisher>
@@ -25,8 +25,8 @@
 				<name>conf-gamecube</name>
 				<filename>${path}/_settings/gamecube-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/gamecube/extra/gamecube.png</thumb>
-				<fanart>${path}/gamecube/extra/gamecube_fanart.jpg</fanart>
+				<thumb>${path}/gamecube/extra/gamecube-logo.png</thumb>
+				<fanart>${path}/gamecube/extra/gamecube-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -38,8 +38,8 @@
 				<name>conf-megadrive</name>
 				<filename>${path}/_settings/megadrive-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/megadrive/extra/megadrive.png</thumb>
-				<fanart>${path}/megadrive/extra/megadrive_fanart.jpg</fanart>
+				<thumb>${path}/megadrive/extra/megadrive-logo.png</thumb>
+				<fanart>${path}/megadrive/extra/megadrive-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -51,8 +51,8 @@
 				<name>conf-n64</name>
 				<filename>${path}/_settings/n64-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/n64/extra/n64.png</thumb>
-				<fanart>${path}/n64/extra/n64_fanart.jpg</fanart>
+				<thumb>${path}/n64/extra/n64-logo.png</thumb>
+				<fanart>${path}/n64/extra/n64-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -64,8 +64,8 @@
 				<name>conf-nes</name>
 				<filename>${path}/_settings/nes-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/nes/extra/nes.png</thumb>
-				<fanart>${path}/nes/extra/nes_fanart.jpg</fanart>
+				<thumb>${path}/nes/extra/nes-icon.png</thumb>
+				<fanart>${path}/nes/extra/nes-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -77,8 +77,8 @@
 				<name>conf-nes-pad1</name>
 				<filename>${path}/_settings/nes-conf-pad1.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/nes/extra/nes.png</thumb>
-				<fanart>${path}/nes/extra/nes_fanart.jpg</fanart>
+				<thumb>${path}/nes/extra/nes-logo.png</thumb>
+				<fanart>${path}/nes/extra/nes-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -90,8 +90,8 @@
 				<name>conf-nes-pad2</name>
 				<filename>${path}/_settings/nes-conf-pad2.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/nes/extra/nes.png</thumb>
-				<fanart>${path}/nes/extra/nes_fanart.jpg</fanart>
+				<thumb>${path}/nes/extra/nes-logo.png</thumb>
+				<fanart>${path}/nes/extra/nes-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -103,8 +103,8 @@
 				<name>conf-psx</name>
 				<filename>${path}/_settings/psx-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/psx/extra/psx.png</thumb>
-				<fanart>${path}/psx/extra/psx_fanart.jpg</fanart>
+				<thumb>${path}/psx/extra/psx-logo.png</thumb>
+				<fanart>${path}/psx/extra/psx-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -116,8 +116,8 @@
 				<name>conf-psx2</name>
 				<filename>${path}/_settings/psx2-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/psx2/extra/psx2.png</thumb>
-				<fanart>${path}/psx/extra/psx2_fanart.jpg</fanart>
+				<thumb>${path}/psx2/extra/psx2-logo.png</thumb>
+				<fanart>${path}/psx2/extra/psx2-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -129,8 +129,8 @@
 				<name>conf-snes</name>
 				<filename>${path}/_settings/snes-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>${path}/snes/snes.png</thumb>
-				<fanart>${path}/snes/extra/snes_fanart.png</fanart>
+				<thumb>${path}/snes/extra/snes-logo.png</thumb>
+				<fanart>${path}/snes/extra/snes-fanart.jpg</fanart>
 				<extrafanart>${path}/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
@@ -150,8 +150,8 @@
 			<extrafanartpath>${path}/gamecube/extra/fanart/</extrafanartpath>
 			<romext>iso|gcm</romext>
 			<platform>Nintendo GameCube</platform>
-			<thumb>${path}/gamecube/extra/gamecube.png</thumb>
-			<fanart>${path}/gamecube/extra/gamecube_fanart.jpg</fanart>
+			<thumb>${path}/gamecube/extra/gamecube-logo.png</thumb>
+			<fanart>${path}/gamecube/extra/gamecube-fanart.jpg</fanart>
 			<genre></genre>
 			<release></release>
 			<publisher></publisher>
@@ -172,7 +172,7 @@
 			<romext>zip|bin|cue|iso|32x</romext>
 			<platform>Sega Genesis</platform>
 			<thumb>${path}/megadrive/extra/SEGA.png</thumb>
-			<fanart>${path}/megadrive/extra/megadrive_fanart.jpg</fanart>
+			<fanart>${path}/megadrive/extra/megadrive-fanart.jpg</fanart>
 			<genre></genre>
 			<release></release>
 			<publisher></publisher>
@@ -192,8 +192,8 @@
 			<extrafanartpath>${path}/nes/extra/fanart/</extrafanartpath>
 			<romext>zip|nes</romext>
 			<platform>Nintendo Entertainment System</platform>
-			<thumb>${path}/nes/extra/nes.png</thumb>
-			<fanart>${path}/nes/extra/nes_fanart.jpg</fanart>
+			<thumb>${path}/nes/extra/nes-logo.png</thumb>
+			<fanart>${path}/nes/extra/nes-fanart.jpg</fanart>
 			<genre></genre>
 			<release></release>
 			<publisher></publisher>
@@ -213,8 +213,8 @@
 			<extrafanartpath>${path}/n64/extra/fanart/</extrafanartpath>
 			<romext>zip|z64|n64|rom</romext>
 			<platform>Nintendo 64</platform>
-			<thumb>${path}/n64/extra/n64.png</thumb>
-			<fanart>${path}/n64/extra/n64_fanart.jpg</fanart>
+			<thumb>${path}/n64/extra/n64-logo.png</thumb>
+			<fanart>${path}/n64/extra/n64-fanart.jpg</fanart>
 			<genre></genre>
 			<release></release>
 			<publisher></publisher>
@@ -231,11 +231,11 @@
 			<rompath>${path}/psx/roms/</rompath>
 			<thumbpath>${path}/psx/extra/thumb/</thumbpath>
 			<fanartpath>${path}/psx/extra/fanart/</fanartpath>
-			<extrafanartpath>${path}/psx/extra/psx_fanart.png</extrafanartpath>
+			<extrafanartpath>${path}/psx/extra/psx-fanart.jpg</extrafanartpath>
 			<romext>mdf|iso|bin|img</romext>
 			<platform>Playstation</platform>
-			<thumb>${path}/psx/psx.png</thumb>
-			<fanart>${path}/psx/extra/psx_fanart.png</fanart>
+			<thumb>${path}/psx/extra/psx-logo.png</thumb>
+			<fanart>${path}/psx/extra/psx-fanart.jpg</fanart>
 			<genre></genre>
 			<release></release>
 			<publisher></publisher>
@@ -255,8 +255,8 @@
 			<extrafanartpath>${path}/psx2/extra/fanart/</extrafanartpath>
 			<romext>iso</romext>
 			<platform>Playstation 2</platform>
-			<thumb>${path}/psx2/extra/psx2.png</thumb>
-			<fanart>${path}/psx2/extra/psx2_fanart.jpg</fanart>
+			<thumb>${path}/psx2/extra/psx2-logo.png</thumb>
+			<fanart>${path}/psx2/extra/psx2-fanart.jpg</fanart>
 			<genre></genre>
 			<release></release>
 			<publisher></publisher>
@@ -276,8 +276,8 @@
 			<extrafanartpath>${path}/snes/extra/fanart/</extrafanartpath>
 			<romext>zip|smc|sfc</romext>
 			<platform>Super Nintendo Entertainment System</platform>
-			<thumb>${path}/snes/extra/snes.png</thumb>
-			<fanart>${path}/snes/extra/snes_fanart.jpg</fanart>
+			<thumb>${path}/snes/extra/snes-logo.png</thumb>
+			<fanart>${path}/snes/extra/snes-fanart.jpg</fanart>
 			<genre></genre>
 			<release></release>
 			<publisher></publisher>
