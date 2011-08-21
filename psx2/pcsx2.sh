@@ -13,7 +13,11 @@
 #	-cdfile : run specified file (missing from man)
 ####################################
 
+#tricks to reduce volume level
+amixer -c 0 sset Master,0 30%
 /usr/games/pcsx2 --nogui "$1"
+amixer -c 0 sset Master,0 100%
+
 
 
 

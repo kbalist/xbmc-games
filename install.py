@@ -84,30 +84,34 @@ def install( root = os.getcwd() ):
 	if not os.path.isfile(TPL):
 		error("NO TEMPLATE FOUND FOR CONF : ",TPLFILE)
 		return False
-	conffile = createXMLConf(root)
-	checkXMLConf(conffile)
+	conf = os.path.join( root, 'advancedLaunchers.xml')
+	if not os.path.isfile(conf):
+		print "CREATE CONF FROM TEMPLATE" + conf
+		conf = createXMLConf(conf)
+	print "CHECK CONF : " + conf
+	checkXMLConf(conf)
 
-
-def createXMLConf(confpath):
-	DEST = os.path.join(confpath,'advancedLaunchers.xml')
-
+def createXMLConf(configFile):
+	
 	f = open(TPL, 'r+')
 	confTpl = f.read()
-	newContent = Template( confTpl ).substitute( dict(path=confpath) )
-	sortie = open( DEST, "w")
+	newContent = Template( confTpl ).substitute( dict(path=os.getcwd()) )
+	
+	sortie = open( configFile, "w")
 	sortie.writelines(newContent)
 	sortie.close()
 	
-	if os.path.isfile(DEST):
-		return DEST
+	if os.path.isfile(configFile):
+		return configFile
 	return False
 
 def checkXMLConf(conffile):
 	dom = parse(conffile)
-	nodeToCheck = ['filename', 'application', 'thumb', 'fanart']
-	for e in nodeToCheck:
+	#fileNode = ['filename', 'application', 'thumb', 'fanart']
+	fileNode = ['filename', 'application']
+	for e in fileNode:
 		checkXMLNodeFileExist(dom, e)
-	return True
+
 
 
 ############### LOW LEVEL ###############
@@ -121,9 +125,7 @@ def checkXMLNodeFileExist(dom, search):
 	for e in app:
 		e = getXMLText(e)
 		if not os.path.isfile(e):
-			error("CAN'T FIND ", e)
-			return False
-	return True
+			error("CAN'T FIND "+ e)
 
 
 def getXMLText(node):

@@ -5,14 +5,14 @@
 		<name>Config</name>
 		<application>/bin/bash</application>
 		<args>"%rom%"</args>
-		<rompath>/Users/Nesta/GIT/xbmc-games/_settings/</rompath>
-		<thumbpath>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb/</thumbpath>
-		<fanartpath>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</fanartpath>
-		<extrafanartpath>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanartpath>
+		<rompath>/media/data/games/_settings/</rompath>
+		<thumbpath></thumbpath>
+		<fanartpath></fanartpath>
+		<extrafanartpath></extrafanartpath>
 		<romext>sh</romext>
 		<platform>Linux</platform>
-		<thumb>/Users/Nesta/GIT/xbmc-games/_settings/settings-icon.png</thumb>
-		<fanart>/Users/Nesta/GIT/xbmc-games/_settings/settings-fanart.jpg</fanart>
+		<thumb>/media/data/games/_settings/settings-icon.png</thumb>
+		<fanart>/media/data/games/_settings/settings-fanart.jpg</fanart>
 		<genre></genre>
 		<release></release>
 		<publisher></publisher>
@@ -23,11 +23,11 @@
 			<rom>
 				<id>13a70d77f62d1c3919480849e25a22d9</id>
 				<name>conf-gamecube</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/gamecube-conf.sh</filename>
+				<filename>/media/data/games/_settings/gamecube-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/gamecube/extra/gamecube-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/gamecube/extra/gamecube-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/gamecube/extra/gamecube-logo.png</thumb>
+				<fanart>/media/data/games/gamecube/extra/gamecube-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -36,11 +36,11 @@
 			<rom>
 				<id>8de77e3953459fa95fd03186ddca45f2</id>
 				<name>conf-megadrive</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/megadrive-conf.sh</filename>
+				<filename>/media/data/games/_settings/megadrive-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/megadrive/extra/megadrive-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/megadrive/extra/megadrive-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/megadrive/extra/megadrive-logo.png</thumb>
+				<fanart>/media/data/games/megadrive/extra/megadrive-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -49,11 +49,11 @@
 			<rom>
 				<id>605c994b82aa798eb2e31302080b574e</id>
 				<name>conf-n64</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/n64-conf.sh</filename>
+				<filename>/media/data/games/_settings/n64-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/n64/extra/n64-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/n64/extra/n64-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/n64/extra/n64-logo.png</thumb>
+				<fanart>/media/data/games/n64/extra/n64-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -62,11 +62,11 @@
 			<rom>
 				<id>ee3ca62bf118e30acc779ef13da9afd8</id>
 				<name>conf-nes</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/nes-conf.sh</filename>
+				<filename>/media/data/games/_settings/nes-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-icon.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/nes/extra/nes-icon.png</thumb>
+				<fanart>/media/data/games/nes/extra/nes-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -75,11 +75,11 @@
 			<rom>
 				<id>8a7321ae4e874f5dfa4d56398b1e2ca1</id>
 				<name>conf-nes-pad1</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/nes-conf-pad1.sh</filename>
+				<filename>/media/data/games/_settings/nes-conf-pad1.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/nes/extra/nes-logo.png</thumb>
+				<fanart>/media/data/games/nes/extra/nes-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -88,11 +88,11 @@
 			<rom>
 				<id>ca2b59ff8625cf7522d7812eb1a43e9c</id>
 				<name>conf-nes-pad2</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/nes-conf-pad2.sh</filename>
+				<filename>/media/data/games/_settings/nes-conf-pad2.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/nes/extra/nes-logo.png</thumb>
+				<fanart>/media/data/games/nes/extra/nes-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -101,11 +101,11 @@
 			<rom>
 				<id>48c79284c43e227bc1b9a95d890933e1</id>
 				<name>conf-psx</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/psx-conf.sh</filename>
+				<filename>/media/data/games/_settings/psx-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/psx/extra/psx-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/psx/extra/psx-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/psx/extra/psx-logo.png</thumb>
+				<fanart>/media/data/games/psx/extra/psx-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -114,11 +114,11 @@
 			<rom>
 				<id>7e9551142eab953feeb543ea1e711e2f</id>
 				<name>conf-psx2</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/psx2-conf.sh</filename>
+				<filename>/media/data/games/_settings/psx2-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/psx2/extra/psx2-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/psx2/extra/psx2-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/psx2/extra/psx2-logo.png</thumb>
+				<fanart>/media/data/games/psx2/extra/psx2-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -127,11 +127,11 @@
 			<rom>
 				<id>c519551c187a92ac921f03a24a9bdb15</id>
 				<name>conf-snes</name>
-				<filename>/Users/Nesta/GIT/xbmc-games/_settings/snes-conf.sh</filename>
+				<filename>/media/data/games/_settings/snes-conf.sh</filename>
 				<platform>Linux</platform>
-				<thumb>/Users/Nesta/GIT/xbmc-games/snes/extra/snes-logo.png</thumb>
-				<fanart>/Users/Nesta/GIT/xbmc-games/snes/extra/snes-fanart.jpg</fanart>
-				<extrafanart>/Users/Nesta/GIT/xbmc-games/_common/launcherThumb2/</extrafanart>
+				<thumb>/media/data/games/snes/extra/snes-logo.png</thumb>
+				<fanart>/media/data/games/snes/extra/snes-fanart.jpg</fanart>
+				<extrafanart>/media/data/games/_common/launcherThumb2/</extrafanart>
 				<genre></genre>
 				<release></release>
 				<publisher></publisher>
@@ -139,151 +139,1614 @@
 			</rom>
 		</roms>
 	</launcher>
-		<launcher>
-			<id>3ea7df6ddef2e6f2f68e399553588869</id>
-			<name>GameCube</name>
-			<application>/Users/Nesta/GIT/xbmc-games/gamecube/dolphin-emu.sh</application>
-			<args>"%rom%"</args>
-			<rompath>/Users/Nesta/GIT/xbmc-games/gamecube/roms/</rompath>
-			<thumbpath>/Users/Nesta/GIT/xbmc-games/gamecube/extra/thumb/</thumbpath>
-			<fanartpath>/Users/Nesta/GIT/xbmc-games/gamecube/extra/fanart/</fanartpath>
-			<extrafanartpath>/Users/Nesta/GIT/xbmc-games/gamecube/extra/fanart/</extrafanartpath>
-			<romext>iso|gcm</romext>
-			<platform>Nintendo GameCube</platform>
-			<thumb>/Users/Nesta/GIT/xbmc-games/gamecube/extra/gamecube-logo.png</thumb>
-			<fanart>/Users/Nesta/GIT/xbmc-games/gamecube/extra/gamecube-fanart.jpg</fanart>
-			<genre></genre>
-			<release></release>
-			<publisher></publisher>
-			<launcherplot></launcherplot>
-			<minimize>true</minimize>
-			<lnk></lnk>
-			<roms></roms>
-		</launcher>
-		<launcher>
-			<id>5f5261c9778df22051568d4c9767543a</id>
-			<name>Megadrive</name>
-			<application>/Users/Nesta/GIT/xbmc-games/megadrive/gens.sh</application>
-			<args>"%rom%"</args>
-			<rompath>/Users/Nesta/GIT/xbmc-games/megadrive/roms/</rompath>
-			<thumbpath>/Users/Nesta/GIT/xbmc-games/megadrive/extra/thumb/</thumbpath>
-			<fanartpath>/Users/Nesta/GIT/xbmc-games/megadrive/extra/fanart/</fanartpath>
-			<extrafanartpath>/Users/Nesta/GIT/xbmc-games/megadrive/extra/fanart/</extrafanartpath>
-			<romext>zip|bin|cue|iso|32x</romext>
-			<platform>Sega Genesis</platform>
-			<thumb>/Users/Nesta/GIT/xbmc-games/megadrive/extra/SEGA.png</thumb>
-			<fanart>/Users/Nesta/GIT/xbmc-games/megadrive/extra/megadrive-fanart.jpg</fanart>
-			<genre></genre>
-			<release></release>
-			<publisher></publisher>
-			<launcherplot></launcherplot>
-			<minimize>true</minimize>
-			<lnk></lnk>
-			<roms></roms>
-		</launcher>
-		<launcher>
-			<id>f5c6a5681892b3518f436b6d7e818daf</id>
-			<name>Nes</name>
-			<application>/Users/Nesta/GIT/xbmc-games/nes/fceux.sh</application>
-			<args>"%rom%"</args>
-			<rompath>/Users/Nesta/GIT/xbmc-games/nes/roms/</rompath>
-			<thumbpath>/Users/Nesta/GIT/xbmc-games/nes/extra/thumb/</thumbpath>
-			<fanartpath>/Users/Nesta/GIT/xbmc-games/nes/extra/fanart/</fanartpath>
-			<extrafanartpath>/Users/Nesta/GIT/xbmc-games/nes/extra/fanart/</extrafanartpath>
-			<romext>zip|nes</romext>
-			<platform>Nintendo Entertainment System</platform>
-			<thumb>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-logo.png</thumb>
-			<fanart>/Users/Nesta/GIT/xbmc-games/nes/extra/nes-fanart.jpg</fanart>
-			<genre></genre>
-			<release></release>
-			<publisher></publisher>
-			<launcherplot></launcherplot>
-			<minimize>true</minimize>
-			<lnk></lnk>
-			<roms></roms>
-		</launcher>
-		<launcher>
-			<id>866a4c17f54e41baa9e6e79a9c99279f</id>
-			<name>Nintendo 64</name>
-			<application>/Users/Nesta/GIT/xbmc-games/n64/mupen64plus.sh</application>
-			<args>"%rom%"</args>
-			<rompath>/Users/Nesta/GIT/xbmc-games/n64/roms/</rompath>
-			<thumbpath>/Users/Nesta/GIT/xbmc-games/n64/extra/thumb/</thumbpath>
-			<fanartpath>/Users/Nesta/GIT/xbmc-games/n64/extra/fanart/</fanartpath>
-			<extrafanartpath>/Users/Nesta/GIT/xbmc-games/n64/extra/fanart/</extrafanartpath>
-			<romext>zip|z64|n64|rom</romext>
-			<platform>Nintendo 64</platform>
-			<thumb>/Users/Nesta/GIT/xbmc-games/n64/extra/n64-logo.png</thumb>
-			<fanart>/Users/Nesta/GIT/xbmc-games/n64/extra/n64-fanart.jpg</fanart>
-			<genre></genre>
-			<release></release>
-			<publisher></publisher>
-			<launcherplot></launcherplot>
-			<minimize>true</minimize>
-			<lnk></lnk>
-			<roms></roms>
-		</launcher>
-		<launcher>
-			<id>d3cd436bda5b4130fe1c087c1b404823</id>
-			<name>Playstation</name>
-			<application>/Users/Nesta/GIT/xbmc-games/psx/pcsx.sh</application>
-			<args>"%rom%"</args>
-			<rompath>/Users/Nesta/GIT/xbmc-games/psx/roms/</rompath>
-			<thumbpath>/Users/Nesta/GIT/xbmc-games/psx/extra/thumb/</thumbpath>
-			<fanartpath>/Users/Nesta/GIT/xbmc-games/psx/extra/fanart/</fanartpath>
-			<extrafanartpath>/Users/Nesta/GIT/xbmc-games/psx/extra/psx-fanart.jpg</extrafanartpath>
-			<romext>mdf|iso|bin|img</romext>
-			<platform>Playstation</platform>
-			<thumb>/Users/Nesta/GIT/xbmc-games/psx/extra/psx-logo.png</thumb>
-			<fanart>/Users/Nesta/GIT/xbmc-games/psx/extra/psx-fanart.jpg</fanart>
-			<genre></genre>
-			<release></release>
-			<publisher></publisher>
-			<launcherplot></launcherplot>
-			<minimize>false</minimize>
-			<lnk></lnk>
-			<roms></roms>
-		</launcher>
-		<launcher>
-			<id>a39529dc13949e48081f84565780e989</id>
-			<name>Playstation 2</name>
-			<application>/Users/Nesta/GIT/xbmc-games/psx2/pcsx2.sh</application>
-			<args>"%rom%"</args>
-			<rompath>/Users/Nesta/GIT/xbmc-games/psx2/roms/</rompath>
-			<thumbpath>/Users/Nesta/GIT/xbmc-games/psx2/extra/thumb/</thumbpath>
-			<fanartpath>/Users/Nesta/GIT/xbmc-games/psx2/extra/fanart/</fanartpath>
-			<extrafanartpath>/Users/Nesta/GIT/xbmc-games/psx2/extra/fanart/</extrafanartpath>
-			<romext>iso</romext>
-			<platform>Playstation 2</platform>
-			<thumb>/Users/Nesta/GIT/xbmc-games/psx2/extra/psx2-logo.png</thumb>
-			<fanart>/Users/Nesta/GIT/xbmc-games/psx2/extra/psx2-fanart.jpg</fanart>
-			<genre></genre>
-			<release></release>
-			<publisher></publisher>
-			<launcherplot></launcherplot>
-			<minimize>true</minimize>
-			<lnk></lnk>
-			<roms></roms>
-		</launcher>
-		<launcher>
-			<id>d605a01b32fa7a76cda11938344f4295</id>
-			<name>Super Nintendo</name>
-			<application>/Users/Nesta/GIT/xbmc-games/snes/zsnes.sh</application>
-			<args>"%rom%"</args>
-			<rompath>/Users/Nesta/GIT/xbmc-games/snes/roms/</rompath>
-			<thumbpath>/Users/Nesta/GIT/xbmc-games/snes/extra/thumb/</thumbpath>
-			<fanartpath>/Users/Nesta/GIT/xbmc-games/snes/extra/fanart/</fanartpath>
-			<extrafanartpath>/Users/Nesta/GIT/xbmc-games/snes/extra/fanart/</extrafanartpath>
-			<romext>zip|smc|sfc</romext>
-			<platform>Super Nintendo Entertainment System</platform>
-			<thumb>/Users/Nesta/GIT/xbmc-games/snes/extra/snes-logo.png</thumb>
-			<fanart>/Users/Nesta/GIT/xbmc-games/snes/extra/snes-fanart.jpg</fanart>
-			<genre></genre>
-			<release></release>
-			<publisher></publisher>
-			<launcherplot></launcherplot>
-			<minimize>true</minimize>
-			<lnk></lnk>
-			<roms></roms>
-		</launcher>
-	</launchers>
+	<launcher>
+		<id>3ea7df6ddef2e6f2f68e399553588869</id>
+		<name>GameCube</name>
+		<application>/media/data/games/gamecube/dolphin-emu.sh</application>
+		<args>"%rom%"</args>
+		<rompath>/media/data/games/gamecube/roms/</rompath>
+		<thumbpath>/media/data/games/gamecube/extra/thumb/</thumbpath>
+		<fanartpath>/media/data/games/gamecube/extra/fanart/</fanartpath>
+		<extrafanartpath>/media/data/games/gamecube/extra/fanart/</extrafanartpath>
+		<romext>iso|gcm</romext>
+		<platform>Nintendo GameCube</platform>
+		<thumb>/media/data/games/gamecube/extra/gamecube-logo.png</thumb>
+		<fanart>/media/data/games/gamecube/extra/gamecube-fanart.jpg</fanart>
+		<genre></genre>
+		<release></release>
+		<publisher></publisher>
+		<launcherplot></launcherplot>
+		<minimize>true</minimize>
+		<lnk></lnk>
+		<roms>
+		</roms>
+	</launcher>
+	<launcher>
+		<id>5f5261c9778df22051568d4c9767543a</id>
+		<name>Megadrive</name>
+		<application>/media/data/games/megadrive/gens.sh</application>
+		<args>"%rom%"</args>
+		<rompath>/media/data/games/megadrive/roms/</rompath>
+		<thumbpath>/media/data/games/megadrive/extra/thumb/</thumbpath>
+		<fanartpath>/media/data/games/megadrive/extra/fanart/</fanartpath>
+		<extrafanartpath>/media/data/games/megadrive/extra/fanart/</extrafanartpath>
+		<romext>zip|bin|cue|iso|32x</romext>
+		<platform>Sega Genesis</platform>
+		<thumb>/media/data/games/megadrive/extra/SEGA.png</thumb>
+		<fanart>/media/data/games/megadrive/extra/megadrive-fanart.jpg</fanart>
+		<genre></genre>
+		<release></release>
+		<publisher></publisher>
+		<launcherplot></launcherplot>
+		<minimize>true</minimize>
+		<lnk></lnk>
+		<roms>
+			<rom>
+				<id>61bc297b162f17f73317486e8c45f0bb</id>
+				<name>Adventures of Mighty Max, The</name>
+				<filename>/media/data/games/megadrive/roms/Mighty Max (U) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Mighty Max (U) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Mighty Max (U) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>f8be1166222688256f8558599f438379</id>
+				<name>Asterix and the Great Rescue</name>
+				<filename>/media/data/games/megadrive/roms/Asterix and the Great Rescue (E) [x].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Asterix and the Great Rescue (E) [x].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Asterix and the Great Rescue (E) [x].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>b6cd09b5c16194ca6bfef659074c9851</id>
+				<name>Asterix and the Power of The Gods</name>
+				<filename>/media/data/games/megadrive/roms/Asterix and the Power of The Gods (8) (Eng-Ger-Fre-Spa) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Asterix and the Power of The Gods (8) (Eng-Ger-Fre-Spa) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Asterix and the Power of The Gods (8) (Eng-Ger-Fre-Spa) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>a904da1128223fb4dc3d1cfd905e78af</id>
+				<name>Batman</name>
+				<filename>/media/data/games/megadrive/roms/Batman (UE) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Batman (UE) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Batman (UE) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>9f57943556a7d64938e652322a47d331</id>
+				<name>Brutal: Paws of Fury</name>
+				<filename>/media/data/games/megadrive/roms/Brutal - Paws of Fury (U) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Brutal - Paws of Fury (U) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Brutal - Paws of Fury (U) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot>Brutal: Paws of Fury is a standard one-on-one beat 'em up across a variety of levels‚ with mostly outdoor terrain. You can choose of the many characters. Throughout the game‚ your character travels across Dalai Llama's island‚ fighting a series of duels before getting to the final showdown.</gameplot>
+			</rom>
+			<rom>
+				<id>1edaf9a217f8394a1910b090de4d808e</id>
+				<name>Comix Zone</name>
+				<filename>/media/data/games/megadrive/roms/Comix Zone (4) [T+Ita].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Comix Zone (4) [T+Ita].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Comix Zone (4) [T+Ita].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>df701b1aeb7362a1f8889af65aef134b</id>
+				<name>Eternal Champions</name>
+				<filename>/media/data/games/megadrive/roms/Eternal Champions (U) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Eternal Champions (U) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Eternal Champions (U) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>a77fd9cc325aa50e887b2883558bbebd</id>
+				<name>Flashback - The Quest for Identity</name>
+				<filename>/media/data/games/megadrive/roms/Flashback - The Quest for Identity (U) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Flashback - The Quest for Identity (U) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Flashback - The Quest for Identity (U) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>00e5ff62d070fdf55f2bd4803cc140c7</id>
+				<name>Gauntlet Arcade Version</name>
+				<filename>/media/data/games/megadrive/roms/Gauntlet Arcade Version (JUE) [R-Jap].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Gauntlet Arcade Version (JUE) [R-Jap].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Gauntlet Arcade Version (JUE) [R-Jap].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>5dc336fe818785e099c71ab5fa610ea7</id>
+				<name>Golden Axe</name>
+				<filename>/media/data/games/megadrive/roms/Golden Axe (World).zip</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Golden Axe (World).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Golden Axe (World).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Adventure</genre>
+				<release>1989</release>
+				<publisher>Sega</publisher>
+				<gameplot>The game takes place in the fictional land of Yuria‚ a Conan the Barbarian-style high fantasy medieval world. An evil entity known as Death Adder has captured the King and his daughter‚ and holds them captive in their castle. He also finds the Golden Axe‚ the magical emblem of Yuria‚ and threatens to destroy both the axe and the royal family unless the people of Yuria accept him as their ruler. The character of Death Adder and the stolen Golden Axe could well be traced to the historical event of the Acquisition of the True Cross during the Sassanid-Byzantine wars‚ as the Norse mythology is heavily influenced by Greek and Middle Eastern mythologies.The player controls one of three Warriors. The first is a battle axe-wielding dwarf‚ Gilius Thunderhead‚ from the mines of Wolud‚ whose twin brother was killed by the soldiers of Death Adder. Another is a male barbarian‚ Ax Battler‚ wielding a two handed broadsword looking for revenge for the murder of his mother. The last is a long-sword-wielding Tyris Flare‚ an amazon‚ whose parents were both killed by Death Adder.</gameplot>
+			</rom>
+			<rom>
+				<id>547b7054688c607e9c97a05c1af3fbb8</id>
+				<name>Golden Axe III</name>
+				<filename>/media/data/games/megadrive/roms/Golden Axe III (Japan).zip</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Golden Axe III (Japan).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Golden Axe III (Japan).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1993</release>
+				<publisher>Sega</publisher>
+				<gameplot>Damud Hellbringer‚ the Prince of Darkness‚ has taken away the Golden Axe and put an evil curse over all the warriors. However‚ one of the heroes has their curse relieved and is sent to set things straight - lift the curse off the others‚ defeat the villain and return with the Golden Axe.</gameplot>
+			</rom>
+			<rom>
+				<id>a34ebae726883f75cb3d08c90c12dd72</id>
+				<name>Incredible Hulk, The</name>
+				<filename>/media/data/games/megadrive/roms/Incredible Hulk, The (JUE) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Incredible Hulk, The (JUE) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Incredible Hulk, The (JUE) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Action / Fighting</genre>
+				<release>1994</release>
+				<publisher>Probe Entertainment</publisher>
+				<gameplot>Take control of the Hulk/Dr. Banner through five levels of action. City and Construction Site‚ Tyrannus' Labyrinth‚ Leader's Fortress‚ Leader's Interior‚ and the Final Confrontation.</gameplot>
+			</rom>
+			<rom>
+				<id>79b9ce8dcd2e97daf1ea35d1fdd4ac50</id>
+				<name>Kid Chameleon</name>
+				<filename>/media/data/games/megadrive/roms/Kid Chameleon (JUE) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Kid Chameleon (JUE) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Kid Chameleon (JUE) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot>A new virtual reality arcade game arrived in town and every kid played it. Nothing seemed out of the ordinary until kids began to disappear. The game's boss‚ Heady Metal‚ had freed himself from his scripted AI. He was using his new freedom to kidnap every kid who could not beat the game‚ which was all of them‚ until now. A boy named Casey who calls himself "Kid Chameleon" enters the game and must defeat every level‚ every boss and Heady Metal himself if he wants to save the others.</gameplot>
+			</rom>
+			<rom>
+				<id>f4a244c9eda5e54f1819f599dbf47fdb</id>
+				<name>Mortal Kombat</name>
+				<filename>/media/data/games/megadrive/roms/Mortal Kombat (REV 00) (JUE) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Mortal Kombat (REV 00) (JUE) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Mortal Kombat (REV 00) (JUE) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1992</release>
+				<publisher>Midway</publisher>
+				<gameplot>In Mortal Kombat‚ the player receives information concerning the backstories of the characters and their relationships with one another mainly in biographies that are displayed when the start button is not pressed‚ during attract mode in the title screen. These bios featured short videos of the characters taking their fighting stances and text informing the motives for each character to enter the tournament. The game takes place in a fantasy setting‚ with most of the game's events occurring on the fictional realms of the Mortal Kombat series. The original game is notably the only title in the series that features only one realm‚ that being Earthrealm. The tournament featured in the story actually takes place fully at Shang Tsung's Island‚ located somewhere on Earth‚ with seven of its locations serving as Kombat Zones.</gameplot>
+			</rom>
+			<rom>
+				<id>69f2d302b38187971ac614fd47ed19ad</id>
+				<name>Mortal Kombat 2</name>
+				<filename>/media/data/games/megadrive/roms/Mortal Kombat 2 (JUE) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Mortal Kombat 2 (JUE) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Mortal Kombat 2 (JUE) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>3c22bb98a1f5b30fd38804d70460f20f</id>
+				<name>Mortal Kombat 3</name>
+				<filename>/media/data/games/megadrive/roms/Mortal Kombat 3 (8).bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Mortal Kombat 3 (8).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Mortal Kombat 3 (8).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1995</release>
+				<publisher>Midway</publisher>
+				<gameplot>Fed up with continuous losses in tournament battle‚ Shao Kahn‚ who had lost to Liu Kang in the Outworld tournament‚ enacts a 10‚000 year-old plan. He would have his Shadow Priests‚ led by Shang Tsung‚ revive his former Queen Sindel‚ who unexpectedly died at a young age. However‚ she wouldn't be revived in the Outworld. She would be resurrected in the Earthrealm. This would allow Shao Kahn to cross the boundary lines and reclaim his queen.When Sindel is reincarnated in Earthrealm‚ Shao Kahn reaches across the dimensions to reclaim her. As a consequence of his action‚ the Earthrealm becomes a part of the Outworld‚ instantly stripping billions of their souls. Only a few are spared‚ as Raiden protects their souls. He tells them that Shao Kahn must be stopped‚ but he cannot interfere; due to his status‚ he has no power in Outworld‚ and Earthrealm is partially merged with Outworld.Shao Kahn has unleashed extermination squads to roam throughout the Earthrealm and kill any survivors. Also‚ Raiden's protection only extends to the soul‚ not to the body‚ so his chosen warriors have to fight the extermination squads and repel Shao Kahn. Eventually with his final defeat‚ every human on Earthrealm comes back.Mortal Kombat 3 follows Mortal Kombat II and shares continuity with both Ultimate Mortal Kombat 3 and Mortal Kombat Trilogy which were both updates of this game. The next new game in the series was Mortal Kombat 4.</gameplot>
+			</rom>
+			<rom>
+				<id>e0f5637d60ca050145afec9b32780e08</id>
+				<name>Shinobi 3 - Return of the Ninja Master</name>
+				<filename>/media/data/games/megadrive/roms/Shinobi 3 - Return of the Ninja Master (U) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Shinobi 3 - Return of the Ninja Master (U) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Shinobi 3 - Return of the Ninja Master (U) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>fb2959bef2583c6eb8024f0f2bce0586</id>
+				<name>Sonic Compilation</name>
+				<filename>/media/data/games/megadrive/roms/Sonic Compilation (A) (REV 00) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Sonic Compilation (A) (REV 00) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Sonic Compilation (A) (REV 00) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>4db81ddb20f00cba655fb81337a1abc9</id>
+				<name>Sonic and Knuckles</name>
+				<filename>/media/data/games/megadrive/roms/Sonic and Knuckles (JUE) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Sonic and Knuckles (JUE) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Sonic and Knuckles (JUE) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>def281e556386cb51ba86c5d1b16d4d7</id>
+				<name>Sonic the Hedgehog 2</name>
+				<filename>/media/data/games/megadrive/roms/Sonic the Hedgehog 2 (World).zip</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Sonic the Hedgehog 2 (World).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Sonic the Hedgehog 2 (World).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Adventure</genre>
+				<release>1992</release>
+				<publisher>Sega</publisher>
+				<gameplot>The gameplay of Sonic the Hedgehog 2 builds upon the basic set-up of the original Sonic the Hedgehog game. The player finishes each level‚ generally moving from left to right‚ within a time limit of 10 minutes.  Along the way‚ rings are collected and Badniks are defeated. Star posts serve as checkpoints‚ where if the player was to lose a life then he or she would return to one.  When the player has collected at least 50 rings‚ star posts can be run past for an optional Special Stage.  At the end of the last act of each zone (with the exception of Sky Chase Zone which does not have a boss)‚ Sonic confronts Dr. Robotnik.</gameplot>
+			</rom>
+			<rom>
+				<id>14ee92df26f8423e99f32ebbcfff7202</id>
+				<name>Sonic the Hedgehog 3</name>
+				<filename>/media/data/games/megadrive/roms/Sonic the Hedgehog 3 (E).bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Sonic the Hedgehog 3 (E).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Sonic the Hedgehog 3 (E).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Adventure</genre>
+				<release>1994</release>
+				<publisher>Sega</publisher>
+				<gameplot>In single player mode‚ the player can choose to play solo‚ as either Sonic or Tails‚ or as a team‚ controlling Sonic‚ with the AI controlling Tails‚ which is the default configuration. Another player may take control of Tails at any time by using a controller plugged into port 2. The object of the game is to progress through the levels. In order to completely finish the game‚ seven Chaos Emeralds must also be collected from the special stages.</gameplot>
+			</rom>
+			<rom>
+				<id>d4b000609710f69961200f2e80c3fbff</id>
+				<name>Speedy Gonzales - Cheeze Cat-astrophe</name>
+				<filename>/media/data/games/megadrive/roms/Speedy Gonzales - Cheeze Cat-astrophe (A) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Speedy Gonzales - Cheeze Cat-astrophe (A) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Speedy Gonzales - Cheeze Cat-astrophe (A) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>9819eaf0f061de01785e8c31b9e98af6</id>
+				<name>Spider-Man ⁄ X-Men: Arcade's Revenge</name>
+				<filename>/media/data/games/megadrive/roms/X-Men (USA).zip</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/X-Men (USA).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/X-Men (USA).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release>1993</release>
+				<publisher>Software Creations</publisher>
+				<gameplot>In the first level‚ the player controls Spider-Man who must use his spider sense to disarm several bombs located throughout the immediate exterior and maze-like entrance to an abandoned building. After the player completes this level Spider-Man learns that the evil Arcade has kidnapped Storm‚ Cyclops‚ Wolverine‚ and Gambit. The player must successfully complete each character's level (each set in Arcade's deadly "Murderworld") in order to get to control Spider-Man in a final battle with Arcade.After completing each stage‚ the player controls each hero as they fight in similar-designed mini-levels themed after the "Behind-the-Scenes" of Murderworld. The only character to have a significant change is Storm‚ who now walks‚ shoots multiple bolts of lightning rapidly and calls upon gusts of wind‚ and jumps about four times the height of the other characters. The last level takes place inside a large room‚ where Arcade chases Spider-Man back and forth in a large Arcade-shaped robot‚ which operates like a Matryoshka Doll‚ until Arcade is finally defeated. The X-Men stand-by at the edges of the room‚ occasionally attacking on their own.</gameplot>
+			</rom>
+			<rom>
+				<id>778e334dcd383df0f34a98327de19177</id>
+				<name>Street Fighter 2 Special Champion Edition</name>
+				<filename>/media/data/games/megadrive/roms/Street Fighter 2 Special Champion Edition (E) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Street Fighter 2 Special Champion Edition (E) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Street Fighter 2 Special Champion Edition (E) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>c98dd7d058c5a122ac7b82fbec8c3020</id>
+				<name>Streets of Rage 3</name>
+				<filename>/media/data/games/megadrive/roms/Streets of Rage 3 (E).bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Streets of Rage 3 (E).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Streets of Rage 3 (E).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Action</genre>
+				<release>1994</release>
+				<publisher>Sega AM7 R&amp;D Division</publisher>
+				<gameplot>After being defeated twice‚ Syndicate crime boss Mr. X has started a research company called RoboCy Corporation to act as a cover for his illegal activities. The world's best roboticist‚ Dr. Dahm‚ has been brought in to help him create an army of realistic robots to replace important officials from the city. With the replacements in place‚ Mr. X plans to run the city using a remote control device. His criminal organization‚ The Syndicate‚ has strategically placed bombs around the city to distract the police while the city officials are dealt with.Dr. Zan discovers what the research is really for and knows the Syndicate must be stopped. He contacts Blaze Fielding with the details of The Syndicate's plan. Blaze quickly contacts her old comrades Axel Stone and Adam Hunter for a task force to bring down The Syndicate once and for all. Axel quickly joins the task force‚ but Adam can't make it (due to his own assignments from within the police) and sends his young brother‚ Eddie "Skate" Hunter instead. The game has four endings depending on the difficulty level and if the player defeats certain levels in an alloted amount of time.</gameplot>
+			</rom>
+			<rom>
+				<id>0397b8fd3b7afa4c8ec5f259be5a5236</id>
+				<name>Super 1998 Sonic 6</name>
+				<filename>/media/data/games/megadrive/roms/Super 1998 Sonic 6 (Unl) [c][!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Super 1998 Sonic 6 (Unl) [c][!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Super 1998 Sonic 6 (Unl) [c][!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>164583b030b38f3f974c0fe5d4f38ba3</id>
+				<name>Super Donkey Kong 99</name>
+				<filename>/media/data/games/megadrive/roms/Super Donkey Kong 99 (Unl).bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Super Donkey Kong 99 (Unl).jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Super Donkey Kong 99 (Unl).jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>da7c6e5ed3532778b49f52b7fc3146b6</id>
+				<name>Super Mario World</name>
+				<filename>/media/data/games/megadrive/roms/Super Mario World (Unl) [c][!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Super Mario World (Unl) [c][!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Super Mario World (Unl) [c][!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>343de0cfdbf5dea22928315fbb8d2ea3</id>
+				<name>Super Street Fighter II: The New Challengers</name>
+				<filename>/media/data/games/megadrive/roms/Super Street Fighter II - The New Challengers (U) [c][!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Super Street Fighter II - The New Challengers (U) [c][!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Super Street Fighter II - The New Challengers (U) [c][!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1993</release>
+				<publisher>CAPCOM</publisher>
+				<gameplot>Super Street Fighter II: The New Challengers is a head-to-head fighting game produced by Capcom originally released as a coin-operated arcade game in 1993. It is the fourth arcade version of Street Fighter II produced‚ following the original Street Fighter II‚ Street Fighter II: Champion Edition and Street Fighter II: Hyper Fighting. In addition to refining and balancing the existing character roster from the previous installments‚ Super Street Fighter II also introduced four new characters. It was also the first game to be developed on Capcom's CP System II hardware‚ which permitted more sophisticated graphics and audio over the original CP System hardware‚ used by the previous versions of Street Fighter II.</gameplot>
+			</rom>
+			<rom>
+				<id>27b6dfa2af5dc1763efbf149c6952ab6</id>
+				<name>Superman</name>
+				<filename>/media/data/games/megadrive/roms/Superman (U) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Superman (U) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Superman (U) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>74f84595944ed807439e576e66cf96f2</id>
+				<name>Teenage Mutant Ninja Turtles: The Hyperstone Heist</name>
+				<filename>/media/data/games/megadrive/roms/Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Action</genre>
+				<release>1992</release>
+				<publisher>Konami</publisher>
+				<gameplot>Shredder steals the powerful Hyperstone to shrink New York City and it's up to you to teach that treacherous troublemaker not to mess with the fearless foursome! Pick your favorite Cowabunga commando to slash through 5 lawless levels of lambasting. Four levels each have 3 intense stages and the other is packed with brand new challenges that will make you hurl your pizza lunch. Pulverize shrink-happy Shredder before he pockets our whole planet!</gameplot>
+			</rom>
+			<rom>
+				<id>92ea7d1820630cacbbe1801d8c3d66e1</id>
+				<name>Wonder Boy in Monster World</name>
+				<filename>/media/data/games/megadrive/roms/Wonder Boy In Monster World (UE) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/Wonder Boy In Monster World (UE) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/Wonder Boy In Monster World (UE) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre>Role-Playing</genre>
+				<release>1993</release>
+				<publisher>Westone</publisher>
+				<gameplot>Wonder Boy In Monster World puts you in control of Shion in his quest to save Monster World from the evil BioMeka. It controls like your standard platform game: run‚ jump‚ and kill enemies. The game is filled with RPG elements such as talking to townsfolk‚ collecting money to buy items‚ extending your life bar‚ and equipping a large variety of armor‚ weapons and magic.Shion travels through the many interconnected regions of Monster World‚ all the while collecting increasingly powerful equipment in the form of many different swords‚ spears‚ shields‚ suits of armor‚ and boots.</gameplot>
+			</rom>
+			<rom>
+				<id>783b225fd683e84c30a7fef3c182c122</id>
+				<name>X-Men 2: Clone Wars</name>
+				<filename>/media/data/games/megadrive/roms/X-Men 2 - Clone Wars (JEU) [!].bin</filename>
+				<platform>Sega Genesis</platform>
+				<thumb>/media/data/games/megadrive/extra/thumb/X-Men 2 - Clone Wars (JEU) [!].jpg</thumb>
+				<fanart>/media/data/games/megadrive/extra/fanart/X-Men 2 - Clone Wars (JEU) [!].jpg</fanart>
+				<extrafanart>/media/data/games/megadrive/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher>Headgames</publisher>
+				<gameplot>The technorganic alien race known as the Phalanx return and are seeking to take control of Earth by assimlating all of its inhabitants. They've also captured and cloned several mutants for experimentation. Only a select group of X-Men (Beast‚ Psylocke‚ Gambit‚ Nightcrawler‚ Wolverine‚ Cyclops) have avoided capture and‚ temporarily united with their oldest foe‚ Magneto‚ they must defeat the Phalanx before all of humanity is assimilated. Along the way‚ they will travel through familiar landscapes including the Savage Land and Avalon‚ and battle powerful adversaries such as Apocalypse‚ the Sentinels‚ Exodus‚ Deathbird and more.</gameplot>
+			</rom>
+		</roms>
+	</launcher>
+	<launcher>
+		<id>f5c6a5681892b3518f436b6d7e818daf</id>
+		<name>Nes</name>
+		<application>/media/data/games/nes/fceux.sh</application>
+		<args>"%rom%"</args>
+		<rompath>/media/data/games/nes/roms/</rompath>
+		<thumbpath>/media/data/games/nes/extra/thumb/</thumbpath>
+		<fanartpath>/media/data/games/nes/extra/fanart/</fanartpath>
+		<extrafanartpath>/media/data/games/nes/extra/fanart/</extrafanartpath>
+		<romext>zip|nes</romext>
+		<platform>Nintendo Entertainment System</platform>
+		<thumb>/media/data/games/nes/extra/nes-logo.png</thumb>
+		<fanart>/media/data/games/nes/extra/nes-fanart.jpg</fanart>
+		<genre></genre>
+		<release></release>
+		<publisher></publisher>
+		<launcherplot></launcherplot>
+		<minimize>true</minimize>
+		<lnk></lnk>
+		<roms>
+		</roms>
+	</launcher>
+	<launcher>
+		<id>866a4c17f54e41baa9e6e79a9c99279f</id>
+		<name>Nintendo 64</name>
+		<application>/media/data/games/n64/mupen64plus.sh</application>
+		<args>"%rom%"</args>
+		<rompath>/media/data/games/n64/roms/</rompath>
+		<thumbpath>/media/data/games/n64/extra/thumb/</thumbpath>
+		<fanartpath>/media/data/games/n64/extra/fanart/</fanartpath>
+		<extrafanartpath>/media/data/games/n64/extra/fanart/</extrafanartpath>
+		<romext>zip|z64|n64|rom</romext>
+		<platform>Nintendo 64</platform>
+		<thumb>/media/data/games/n64/extra/n64-logo.png</thumb>
+		<fanart>/media/data/games/n64/extra/n64-fanart.jpg</fanart>
+		<genre></genre>
+		<release></release>
+		<publisher></publisher>
+		<launcherplot></launcherplot>
+		<minimize>true</minimize>
+		<lnk></lnk>
+		<roms>
+		</roms>
+	</launcher>
+	<launcher>
+		<id>d3cd436bda5b4130fe1c087c1b404823</id>
+		<name>Playstation</name>
+		<application>/media/data/games/psx/pcsx.sh</application>
+		<args>"%rom%"</args>
+		<rompath>/media/data/games/psx/roms/</rompath>
+		<thumbpath>/media/data/games/psx/extra/thumb/</thumbpath>
+		<fanartpath>/media/data/games/psx/extra/fanart/</fanartpath>
+		<extrafanartpath>/media/data/games/psx/extra/psx-fanart.jpg</extrafanartpath>
+		<romext>mdf|iso|bin|img</romext>
+		<platform>Playstation</platform>
+		<thumb>/media/data/games/psx/extra/psx-logo.png</thumb>
+		<fanart>/media/data/games/psx/extra/psx-fanart.jpg</fanart>
+		<genre></genre>
+		<release></release>
+		<publisher></publisher>
+		<launcherplot></launcherplot>
+		<minimize>false</minimize>
+		<lnk></lnk>
+		<roms>
+			<rom>
+				<id>7d63740728df4be6645a228b8a6b394c</id>
+				<name>Blood_Omen</name>
+				<filename>/media/data/games/psx/roms/Blood_Omen.img</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Blood_Omen.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Blood_Omen.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>28a9190798831be13da490b88fcd1e3a</id>
+				<name>Crash Bandicoot</name>
+				<filename>/media/data/games/psx/roms/Crash Bandicoot (E) (EDC) [SCES-00344].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Crash Bandicoot (E) (EDC) [SCES-00344].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Crash Bandicoot (E) (EDC) [SCES-00344].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre>Adventure</genre>
+				<release>1996</release>
+				<publisher>Naughty Dog</publisher>
+				<gameplot>Crash Bandicoot‚ a heroic‚ agile and mutated marsupial who must save his girlfriend Tawna. The main antagonist is Doctor Neo Cortex‚ a mad scientist who was often ridiculed by the scientific community for his outlandish (but nearly workable) theories and is now motivated to prove his tormentors wrong by creating a mutated army of beasts to conquer the world. Cortex's henchman is Doctor Nitrus Brio‚ the insecure creator of the Evolvo-Ray. Crash's love interest is Tawna‚ a female bandicoot about to undergo experimentation by the Doctors. Helping Crash in his journey is an ancient witch doctor spirit named Aku Aku‚ who has scattered masks of himself throughout the islands to grant Crash special powers. The boss characters of the game include Papu Papu‚ the obese and short-tempered chief of the native village; Ripper Roo‚ a demented kangaroo with razor-sharp toenails; Koala Kong‚ a muscular but unintelligent koala; and Pinstripe Potoroo‚ the tommy gun-wielding bodyguard of Doctor Cortex.</gameplot>
+			</rom>
+			<rom>
+				<id>85522da6b2a52625d27d65e4fa2f6649</id>
+				<name>Crash Bandicoot 2 Cortex Strikes Back</name>
+				<filename>/media/data/games/psx/roms/Crash Bandicoot 2 - Cortex Strikes Back (E) [SCES-00967].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Crash Bandicoot 2 - Cortex Strikes Back (E) [SCES-00967].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Crash Bandicoot 2 - Cortex Strikes Back (E) [SCES-00967].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release></release>
+				<publisher>Eurocom</publisher>
+				<gameplot>Crash Bandicoot 2: Cortex Strikes Back is a platform game in which the player character is the titular Crash Bandicoot. The goal of the game is to gather 25 crystals for Crash's nemesis Doctor Neo Cortex. The game takes place in a series of "Warp Rooms"‚ which act as the hub areas of the game. Each Warp Room contains five doors leading to a level. The goal of each level is to obtain the crystal placed somewhere along the path. A level is cleared by collecting the crystal and reaching the end of the path‚ which returns Crash to the Warp Room.[4] The retrieved crystal will then appear in the slot above the level's doorway in the Warp Room.[5] When all five crystals in a Warp Room are obtained‚ the player must ride the platform in the center of the room to move to the next Warp Room. When riding the platform‚ the player must fight and defeat a boss character before gaining access to a new Warp Room.[6] The player is given a certain amount of lives‚ which are lost when Crash is attacked by an enemy or falls into water or a pit. If all lives are lost at any point in the game‚ the "Game Over" screen will appear‚ in which the player can continue from the last level played by selecting "Yes".[4]</gameplot>
+			</rom>
+			<rom>
+				<id>78a9074274b454d315fe502a99a525d0</id>
+				<name>Crash Bandicoot 3: Warped</name>
+				<filename>/media/data/games/psx/roms/Crash Bandicoot 3.bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Crash Bandicoot 3.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Crash Bandicoot 3.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release>1998</release>
+				<publisher>Naughty Dog</publisher>
+				<gameplot>Crash Bandicoot 3: Warped is a platform game in which the player controls Crash and Coco Bandicoot‚ who must travel back in time and gather the 25 Crystals from the previous game in their original places in time before the antagonists of the story do so. Much of the game takes place in the Time-Twisting Machine‚ which acts as the hub area of the game. The Time-Twisting Machine is split up into five chambers; only the first chamber is initially available. Each chamber has five buttons that open portals to different levels.[2] The goal in each level is to find and obtain the Crystal hidden in the area. In some levels‚ the Crystal will be located at the end of a level or must be earned by completing a specific challenge.[3] Some levels contain a "Bonus Platform" that leads to a special bonus area‚ where the player must navigate through a separate area and collect everything in sight. As no lives are lost in the bonus areas‚ the bonus areas can be played through as often as the player desires until the bonus area can be cleared.[4] After completing all five levels in a chamber‚ a sixth button that opens a portal to a boss level will appear. By defeating the boss‚ the next chamber will become available for play.[2] When all 25 Crystals are found and all five boss characters are defeated‚ the game is won.[5]Crash and Coco start the game with four lives. Crash and Coco lose a life when they are struck by an enemy attack or suffer any other type of damage. More lives can be earned by instructing Crash or Coco to collect 100 "Wumpa Fruits" or break open a special crate to collect a life. If Crash or Coco run out of lives‚ the game is over. However‚ the game can be continued by selecting "Yes" at the "Continue?" screen.[4] Crash has the ability to jump into the air and land on an enemy character‚ spin in a tornado-like fashion to knock enemies off-screen‚ slide across the ground and perform a body slam to break certain objects. Crash can increase his jumping ability by jumping after a slide.[6] Crash can expand on these abilities by defeating boss characters‚ often resulting in more powerful attacks or increased jumping and running prowess.[5]</gameplot>
+			</rom>
+			<rom>
+				<id>2556fcf4205b7b57da9828876416110b</id>
+				<name>Crash Bash</name>
+				<filename>/media/data/games/psx/roms/Crash Bash [SCES-02834].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Crash Bash [SCES-02834].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Crash Bash [SCES-02834].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>519ecfb5762d26e184999bcdd66ad5d9</id>
+				<name>Creatures</name>
+				<filename>/media/data/games/psx/roms/Creatures [SLES-03690].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Creatures [SLES-03690].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Creatures [SLES-03690].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>f9cbbf1f41a1b257f6635f4d7678ce2e</id>
+				<name>Diablo</name>
+				<filename>/media/data/games/psx/roms/Diablo.iso</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Diablo.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Diablo.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>9d221c5aa6f391ddd055bc75b4662363</id>
+				<name>Final Fantasy 9 cd1</name>
+				<filename>/media/data/games/psx/roms/Final Fantasy 9 cd1 .img</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Final Fantasy 9 cd1 .jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Final Fantasy 9 cd1 .jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>351126a50044688d5cd32900b4b8a6bf</id>
+				<name>Final Fantasy Tactics</name>
+				<filename>/media/data/games/psx/roms/Final Fantasy Tactics [NTSC-U] [SCUS-94221].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Final Fantasy Tactics [NTSC-U] [SCUS-94221].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Final Fantasy Tactics [NTSC-U] [SCUS-94221].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre>Role-Playing / Strategy</genre>
+				<release>1998</release>
+				<publisher>Square</publisher>
+				<gameplot>Final Fantasy Tactics is set in a fictional medieval-inspired kingdom called Ivalice. The game's story follows Ramza Beoulve‚ a highborn cadet who finds himself thrust into the middle of a military conflict known as The Lion War‚ where two opposing noble factions are coveting the throne of the kingdom. As the story progresses‚ Ramza and his allies discover a sinister plot behind the war.</gameplot>
+			</rom>
+			<rom>
+				<id>c443d262a364052959b8b5fea393cc8e</id>
+				<name>GTA</name>
+				<filename>/media/data/games/psx/roms/GTA.bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/GTA.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/GTA.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>6ea8a7a557244c414860c52e380fa1e1</id>
+				<name>Metal Slug</name>
+				<filename>/media/data/games/psx/roms/Metal Slug.img</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Metal Slug.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Metal Slug.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>a59eb12bedd744308d91c2fa8058ceae</id>
+				<name>Metal Slug X</name>
+				<filename>/media/data/games/psx/roms/Metal Slug X.iso</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Metal Slug X.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Metal Slug X.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>4d6cfcf464d5020a3cb104f838160658</id>
+				<name>Oddworld - L'exode D'Abe</name>
+				<filename>/media/data/games/psx/roms/Oddworld - L'exode D'Abe [Disc1of2] [SLES-01502].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Oddworld - L'exode D'Abe [Disc1of2] [SLES-01502].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Oddworld - L'exode D'Abe [Disc1of2] [SLES-01502].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>3396048e8c9728a20948029aa37f92cf</id>
+				<name>Oddworld - L'exode D'Abe</name>
+				<filename>/media/data/games/psx/roms/Oddworld - L'exode D'Abe [Disc2of2] [SLES-11502].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Oddworld - L'exode D'Abe [Disc2of2] [SLES-11502].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Oddworld - L'exode D'Abe [Disc2of2] [SLES-11502].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>7485e91dd9c2fea020e523b9643fb658</id>
+				<name>Rayman</name>
+				<filename>/media/data/games/psx/roms/Rayman.img</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Rayman.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Rayman.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>3e7630554ca78ce95f3a1120fb2ca886</id>
+				<name>Rayman 2 The great escape</name>
+				<filename>/media/data/games/psx/roms/Rayman 2 The great escape.bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Rayman 2 The great escape.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Rayman 2 The great escape.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>8d488f09eface9604bb23f8d737b2900</id>
+				<name>Spyro Year of the Dragon</name>
+				<filename>/media/data/games/psx/roms/Spyro - Year of the Dragon (E) [SCES-02835].bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Spyro - Year of the Dragon (E) [SCES-02835].jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Spyro - Year of the Dragon (E) [SCES-02835].jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre>Platform</genre>
+				<release>2000</release>
+				<publisher>Insomniac Games</publisher>
+				<gameplot>Spyro: Year of the Dragon is the third installment in the Spyro series and the last Spyro game to be released for the PlayStation. The game was the last Spyro game Insomniac developed; their next title would be Ratchet &amp; Clank for the PlayStation 2. This is the only Spyro game in the PlayStation library to not get released in Japan.Named after the animal of the Chinese zodiac‚ which was the symbol at the time of the game's release‚ Year of the Dragon follows the titular purple character Spyro as he travels to the "Forgotten Worlds" after 150 magical dragon eggs are stolen from the land of the dragons by an evil sorceress. Players travel across thirty different worlds gathering gems and eggs. Year of the Dragon introduced new characters and minigames to the series‚ as well as offering improved graphics and music.Upon release‚ the game sold more than two million units in the United States‚and received positive critical response. Reviewers noted the game built on the successful formula of its predecessors by adding more games and expansive environments. At Game Rankings‚ Year of the Dragon is one of the top twenty highest-rated PlayStation games of all time.</gameplot>
+			</rom>
+			<rom>
+				<id>9228096f9201f3be20ef4d172223f434</id>
+				<name>Tai fu wrath of the Tiger</name>
+				<filename>/media/data/games/psx/roms/Tai fu wrath of the Tiger.bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Tai fu wrath of the Tiger.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Tai fu wrath of the Tiger.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>cf729ddeac488917047beb4e9a188f47</id>
+				<name>Tekken 3</name>
+				<filename>/media/data/games/psx/roms/Tekken 3.bin</filename>
+				<platform>Playstation</platform>
+				<thumb>/media/data/games/psx/extra/thumb/Tekken 3.jpg</thumb>
+				<fanart>/media/data/games/psx/extra/fanart/Tekken 3.jpg</fanart>
+				<extrafanart>/media/data/games/psx/extra/psx-fanart.jpg</extrafanart>
+				<genre>Fighting</genre>
+				<release>1997</release>
+				<publisher>Namco</publisher>
+				<gameplot>Tekken 3 maintains the same core fighting system and concept as its predecessors‚ but brings many improvements‚ such as significantly more detailed graphics and animations‚ fifteen new characters added to the game's roster‚ more modern music and faster and more fluid gameplay.</gameplot>
+			</rom>
+		</roms>
+	</launcher>
+	<launcher>
+		<id>a39529dc13949e48081f84565780e989</id>
+		<name>Playstation 2</name>
+		<application>/media/data/games/psx2/pcsx2.sh</application>
+		<args>"%rom%"</args>
+		<rompath>/media/data/games/psx2/roms/</rompath>
+		<thumbpath>/media/data/games/psx2/extra/thumb/</thumbpath>
+		<fanartpath>/media/data/games/psx2/extra/fanart/</fanartpath>
+		<extrafanartpath>/media/data/games/psx2/extra/fanart/</extrafanartpath>
+		<romext>iso</romext>
+		<platform>Playstation 2</platform>
+		<thumb>/media/data/games/psx2/extra/psx2-logo.png</thumb>
+		<fanart>/media/data/games/psx2/extra/psx2-fanart.jpg</fanart>
+		<genre></genre>
+		<release></release>
+		<publisher></publisher>
+		<launcherplot></launcherplot>
+		<minimize>true</minimize>
+		<lnk></lnk>
+		<roms>
+			<rom>
+				<id>0518cbd4dbcb2b30681dd8ec131ad345</id>
+				<name>Capcom_Fighting_Evolution-</name>
+				<filename>/media/data/games/psx2/roms/Capcom_Fighting_Evolution-[PS2DVD_NTSC].iso</filename>
+				<platform>Playstation 2</platform>
+				<thumb>/media/data/games/psx2/extra/thumb/Capcom_Fighting_Evolution-[PS2DVD_NTSC].jpg</thumb>
+				<fanart>/media/data/games/psx2/extra/fanart/Capcom_Fighting_Evolution-[PS2DVD_NTSC].jpg</fanart>
+				<extrafanart>/media/data/games/psx2/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>6980f57ad56c48ee22d910b5f54d26af</id>
+				<name>Scooby_Doo_And_The_Spooky_Swamp</name>
+				<filename>/media/data/games/psx2/roms/Scooby_Doo_And_The_Spooky_Swamp.iso</filename>
+				<platform>Playstation 2</platform>
+				<thumb>/media/data/games/psx2/extra/thumb/Scooby_Doo_And_The_Spooky_Swamp.jpg</thumb>
+				<fanart>/media/data/games/psx2/extra/fanart/Scooby_Doo_And_The_Spooky_Swamp.jpg</fanart>
+				<extrafanart>/media/data/games/psx2/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+		</roms>
+	</launcher>
+	<launcher>
+		<id>d605a01b32fa7a76cda11938344f4295</id>
+		<name>Super Nintendo</name>
+		<application>/media/data/games/snes/zsnes.sh</application>
+		<args>"%rom%"</args>
+		<rompath>/media/data/games/snes/roms/</rompath>
+		<thumbpath>/media/data/games/snes/extra/thumb/</thumbpath>
+		<fanartpath>/media/data/games/snes/extra/fanart/</fanartpath>
+		<extrafanartpath>/media/data/games/snes/extra/fanart/</extrafanartpath>
+		<romext>zip|smc|sfc</romext>
+		<platform>Super Nintendo Entertainment System</platform>
+		<thumb>/media/data/games/snes/extra/snes-logo.png</thumb>
+		<fanart>/media/data/games/snes/extra/snes-fanart.jpg</fanart>
+		<genre></genre>
+		<release></release>
+		<publisher></publisher>
+		<launcherplot></launcherplot>
+		<minimize>true</minimize>
+		<lnk></lnk>
+		<roms>
+			<rom>
+				<id>449decccef6995d930a85d2d16d53b1d</id>
+				<name>Addams Family - Pugsley's Scavenger Hunt, The</name>
+				<filename>/media/data/games/snes/roms/Addams Family - Pugsley's Scavenger Hunt.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Addams Family - Pugsley's Scavenger Hunt.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Addams Family - Pugsley's Scavenger Hunt.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>a78e38fcb69b817119127280150877b2</id>
+				<name>Addams Family Values</name>
+				<filename>/media/data/games/snes/roms/Addams Family Values.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Addams Family Values.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Addams Family Values.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Role-Playing</genre>
+				<release>1995</release>
+				<publisher>Ocean Software</publisher>
+				<gameplot>The evil Debbie Jelinksi is harming the Addams family once again... She has kidnapped Baby Pubert‚ and Uncle Fester is the one who must find him and to bring him back to his loving family. The game is based on the live-action movie of the same name.</gameplot>
+			</rom>
+			<rom>
+				<id>469afb6719fde3a25ef08e386ebee4fe</id>
+				<name>Batman Forever</name>
+				<filename>/media/data/games/snes/roms/Bat-Man Forever.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Bat-Man Forever.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Bat-Man Forever.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action</genre>
+				<release>1995</release>
+				<publisher>Acclaim Studios London</publisher>
+				<gameplot>Batman Forever is the officially licensed game based on the 1995 movie. The bad guys this time around are The Riddler and Two-Face.This game is an usual hybrid of side-scrolling platformer and one-on-one fighter. You make your way through levels that include some platform jumping elements‚ but you typically take on opponents one at a time like in a fighting game. You arsenal includes a lot of nifty bat-gadgets‚ and a collection of fighting moves that are unleashed with special button combinations.The graphics were rendered completely with digitized actors and objects‚ but none of the actors from the movie make an appearance in the game.</gameplot>
+			</rom>
+			<rom>
+				<id>8605f6de11469e82c7f25ab3485ae74e</id>
+				<name>Batman Returns</name>
+				<filename>/media/data/games/snes/roms/Bat-Man Returns.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Bat-Man Returns.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Bat-Man Returns.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Fighting</genre>
+				<release>1992</release>
+				<publisher>Konami</publisher>
+				<gameplot>Frigid winter winds swept over an already chilled Gotham City. Random street crimes were running at an all-time high‚ despite the holidays. Down below‚ in the city's frozen sewers‚ Oswald Cobblepot‚ known as The Penguin‚ planned more mayhem and schemed the take over of the fightened metropolis. His loyal army of missle-packing Penguin Commandos and the bizarre Red Triangle Circus Gang are energized by the evil genius of the web-footed orphan. A desperate call to Batman goes up. Partner with Batman to salvage Gotham City from The Penguin's cold-hearted plot. Guide him in swift‚ life-like moves from dark alleys to rooftops in vivid scenes based on the hit movie‚ "Batman Returns." Control his combat style‚ and help conduct relentless interrogations of The Penguins many allies. Use the Batcave computer to input clues‚ analyze evidence‚ and review enemy bios. You're in charge of weapons‚ too. Stock Batman's Utility belt with enough heat to match the diverse fighting styles of The Penguin and cold-blooded‚ sewer-dwelling minions. Gotham City is in trouble.</gameplot>
+			</rom>
+			<rom>
+				<id>a9056691a9a6e5a33c469ee98c8c3c51</id>
+				<name>Batman: Revenge of the Joker</name>
+				<filename>/media/data/games/snes/roms/Bat-Man - Revenge of the Joker.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Bat-Man - Revenge of the Joker.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Bat-Man - Revenge of the Joker.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action</genre>
+				<release>1992</release>
+				<publisher>Sunsoft</publisher>
+				<gameplot>Batman is armed with a utility belt that allows him to collect various types of icons throughout the stages in order to shoot different types of baterangs and projectiles. The game's password feature also helped the game from becoming too difficult.The music was composed by Naoki Kodaka‚ Hara Nobuyuki and Shinichi Seya.It also features several remixes of the themes from the Megaman series‚ most notable the opening theme being a remix of the boss select theme from Megaman 2.</gameplot>
+			</rom>
+			<rom>
+				<id>3a62a9c8abef8f8cdb1454b09ff128c1</id>
+				<name>Bust-A-Move</name>
+				<filename>/media/data/games/snes/roms/Bust a Move.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Bust a Move.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Bust a Move.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Puzzle / Strategy</genre>
+				<release>1995</release>
+				<publisher>Taito Corporation</publisher>
+				<gameplot>Which will burst first: your concentration or the level you're working on? It takes more than just swinging the bubble-turret and taking aim on the falling ceiling; tactical planning and mental dexterity are the only way to string together three or more bubbles and 100 wins to make it through all the bubble and ego-bursting rounds of Bust-A-Move!</gameplot>
+			</rom>
+			<rom>
+				<id>07b17a2426f5edc2cc6efda03ad4958c</id>
+				<name>Cannondale Cup</name>
+				<filename>/media/data/games/snes/roms/Cannondale Cup.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Cannondale Cup.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Cannondale Cup.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Sports</genre>
+				<release>1994</release>
+				<publisher>Radical Entertainment Inc.</publisher>
+				<gameplot>Choose from 1 of 8 different racers who compete on 8 different bicycle race courses. The game splits the courses into different stages‚ with each stage having a requirement to move on to the next stage. The requirements are based on completing a set number of laps or attaining a certain score‚ except for the final race where the player must come in 1st place in 30 laps. There are also a number of selectable mountain bikes which are rated in the categories of turning‚ speed‚ tires‚ acceleration‚ and shocks. During a race‚ players can punch opposing cyclists and also jump ramps. The higher the position the player comes in at the end of a race‚ the higher the score the player will receive.It was also re-released as a part of the SNES game Exertainment Mountain Bike Rally / Speed Racer as the Mountain Bike part of it‚ along with another game. It contains the same gameplay with only a few minor graphical changes.</gameplot>
+			</rom>
+			<rom>
+				<id>257d4cb7a7c19939702e55433e644762</id>
+				<name>Captain America and the Avengers</name>
+				<filename>/media/data/games/snes/roms/Captain America and the Avengers.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Captain America and the Avengers.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Captain America and the Avengers.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Fighting</genre>
+				<release>1991</release>
+				<publisher>Data East</publisher>
+				<gameplot>Players can choose to play one of four of the Avengers‚ being the superheroes Captain America; Iron Man; Hawkeye and the Vision. What follows are a series of battle against supervillains across various locations in a bid to stop the villain the Red Skull. Other Avengers including the Wasp; Quicksilver; Wonder Man and Namor the Sub-Mariner make cameo appearances.</gameplot>
+			</rom>
+			<rom>
+				<id>f7b86301c54143b1f43137068edb2d56</id>
+				<name>Captain Commando</name>
+				<filename>/media/data/games/snes/roms/Captain Commando.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Captain Commando.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Captain Commando.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1991</release>
+				<publisher>Capcom</publisher>
+				<gameplot>The player chooses one of these four characters‚ who must fight their way through an army of genetically engineered super-criminal‚ traveling through a series of locations such as the bank‚ museum‚ circus‚ aquarium‚ and several others‚ right through to a planet called "Callisto"‚ where the evil behind "Scumocide" awaits. All four characters have their own special attacks. Captain Commando can use the power of his suit to shoot electricity through his palms. Baby Head rides around in a mech suit which does more damage. Mack can use short knives. Each location ends with the character defeating a boss before proceeding to the next one.</gameplot>
+			</rom>
+			<rom>
+				<id>0424f09898854190112a3b677f1ff992</id>
+				<name>Disney's Aladdin</name>
+				<filename>/media/data/games/snes/roms/Aladdin.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Aladdin.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Aladdin.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Platform</genre>
+				<release>1993</release>
+				<publisher>Capcom</publisher>
+				<gameplot>Discover a Whole New World of AdventureFor years later‚ the Sultan's evil advisor has sought a magic treasure - a single lamp that holds the key to the greatest power in the world. With this goal in sight‚ Jafar learns that only one person in the world can claim the magic lamp from the dreaded Cave of Wonders - one whose rags hide a heart that is pure - a diamond in the rough!Join Aladdin and his pet monkey Abu‚ as they race through the marketplace toward their date with destiny. Watch as Jafar tricks our hero and his friend into retrieving the lamp from the dangerous Cave of Wonders. But Aladdin and Abu outwit Jafar‚ releasing the power of a wacky blue Genie! Now Aladdin will have the chance to spoil Jafar's devious plans and win the hand of the beautiful princess Jasmine. But it will take more than magic to make his wishes come true...</gameplot>
+			</rom>
+			<rom>
+				<id>4436222734113bfd0067912016900183</id>
+				<name>Disney's Goof Troop</name>
+				<filename>/media/data/games/snes/roms/Goof Troop.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Goof Troop.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Goof Troop.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1993</release>
+				<publisher>Capcom</publisher>
+				<gameplot>On a great day for fishing in Spoonerville‚ Goofy and his son Max go out to the sea. While fishing‚ they see a huge pirate ship heading towards Spoonerville with Pete and PJ kidnapped. Goofy tries to catch up with the ship‚ but doesn't succeed until the ship lands on the pirate's island.</gameplot>
+			</rom>
+			<rom>
+				<id>e6b35d730f06aefad445d543756a79da</id>
+				<name>Disney's The Jungle Book</name>
+				<filename>/media/data/games/snes/roms/Jungle Book.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Jungle Book.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Jungle Book.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>23ef51f3bbc50cfda5022c66e9e758fb</id>
+				<name>Donkey Kong Country</name>
+				<filename>/media/data/games/snes/roms/Donkey Kong Country.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Donkey Kong Country.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Donkey Kong Country.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1994</release>
+				<publisher>Rare Ltd.</publisher>
+				<gameplot>Donkey Kong Country is an incredible island adventure and the first game to feature Donkey Kong’s sidekick‚ Diddy Kong. Challenged by the crazed tribe of reptilian Kremlings‚ the Kongs face their cunning adversaries armed with lightning-quick moves‚ chest-pounding muscle‚ and awesome aerial acrobatics. The duo also gets help from a host of friends and family‚ from Funky Kong‚ Cranky Kong and Candy Kong‚ to Rambi the rhino‚ Expresso the ostrich‚ Enguarde the swordfish‚ Squawks the parrot and Winky the frog. This game has over 30 levels plus dozens of hidden caves and secret rooms—more than 100 areas in all. Help the Kongs recover their stolen banana hoard!</gameplot>
+			</rom>
+			<rom>
+				<id>9636edd4ce181d628439ceed9efc4dfc</id>
+				<name>Donkey Kong Country 2: Diddy's Kong Quest</name>
+				<filename>/media/data/games/snes/roms/Donkey Kong Country 2 - Diddy's Kong Quest.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Donkey Kong Country 2 - Diddy's Kong Quest.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Donkey Kong Country 2 - Diddy's Kong Quest.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1995</release>
+				<publisher>Rare</publisher>
+				<gameplot>Donkey Kong Country 2 begins after Donkey Kong has been kidnapped by Kaptain K. Rool‚ leaving Diddy Kong and his girlfriend Dixie Kong to rescue him. Together‚ the two of them travel to various different and distinct parts of Crocodile Isle where the game is set. On the island‚ there are varying worlds. In total‚ there are eight.</gameplot>
+			</rom>
+			<rom>
+				<id>9454d1e8622554c793187009721d4e4a</id>
+				<name>Donkey Kong Country 3: Dixie Kong's Double Trouble</name>
+				<filename>/media/data/games/snes/roms/Donkey Kong Country 3 - Dixie Kong's Double Trouble.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Donkey Kong Country 3 - Dixie Kong's Double Trouble.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Donkey Kong Country 3 - Dixie Kong's Double Trouble.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1996</release>
+				<publisher>Rare</publisher>
+				<gameplot>In the game Dixie Kong and her toddler cousin Kiddy Kong have to discover the location of missing vacationers Donkey Kong and Diddy Kong‚ who went on a fishing trip. Meanwhile‚ the Kremling Krew returns under the leadership of the mysterious robot KAOS‚ whom K. Rool (now a mad scientist and under the name of Baron K. Roolenstein) is secretly controlling.Unlike the previous installment‚ which featured a pirate high-seas adventure theme‚ this game has more of a mix between a mechanical theme (especially the technological island of Mekanos) and a generic theme similar to the first game‚ but unlike Donkey Kong Country's often tropical sceneries‚ this game features locations much more similar to northern maritime and continental climates‚ including the presence of evergreen and deciduous forests‚ snowy mountains‚ cliffs‚ waterfalls and a group of allies called Brothers Bear. Many of the Kremling Krew appear to be genetically altered or fused with objects‚ which hints at the mad scientist nature of the end boss‚ K. Roolenstein. The events of the game were located in the Northern Kremisphere‚ a hitherto unseen part of the DK Isles.</gameplot>
+			</rom>
+			<rom>
+				<id>32b1a891756be23bef08709b68568ee0</id>
+				<name>Earthworm Jim</name>
+				<filename>/media/data/games/snes/roms/Earthworm Jim.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Earthworm Jim.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Earthworm Jim.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1994</release>
+				<publisher>Shiny Entertainment‚ Inc.</publisher>
+				<gameplot>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it‚ since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim‚ causing a light-speed evolution. Jim soon realizes he is in control of the suit.Jim overhears the Queen's plans for the suit and decides to meet this Princess...</gameplot>
+			</rom>
+			<rom>
+				<id>64c4973914e030d60e04a7b33d9bde45</id>
+				<name>Earthworm Jim 2</name>
+				<filename>/media/data/games/snes/roms/Earthworm Jim 2.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Earthworm Jim 2.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Earthworm Jim 2.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Platform</genre>
+				<release>1996</release>
+				<publisher>Virgin</publisher>
+				<gameplot>Two times two is four! Too much to list‚ but keep reading:From Evil the Cat's Circus of the Scars' to the planet of Meat‚ join Jim on a madcap chase across the galaxy. Saving cows‚ thwarting lawyers and outsmarting Psy-Crow are all in a day's work for Jim. Are you up to the challenge? Can you handle the awesome new weapon? Excellent! Then stop reading this. Take it up to the front counter and try it at home! Trust no one play it yourself... or EAT DIRT!</gameplot>
+			</rom>
+			<rom>
+				<id>84f8ccbeec4dfa3df08855746791e345</id>
+				<name>Final Fantasy 2</name>
+				<filename>/media/data/games/snes/roms/Final Fantasy 2.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Final Fantasy 2.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Final Fantasy 2.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>a30b0de4ada1c7634b0bfcd3742d440e</id>
+				<name>Final Fantasy 3</name>
+				<filename>/media/data/games/snes/roms/Final Fantasy 3.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Final Fantasy 3.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Final Fantasy 3.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>bc5861b448effcb60f49651a79796003</id>
+				<name>Final Fantasy 5</name>
+				<filename>/media/data/games/snes/roms/Final Fantasy 5.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Final Fantasy 5.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Final Fantasy 5.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>5d16686b1c029f6a65e826f67dd784e3</id>
+				<name>Final Fight</name>
+				<filename>/media/data/games/snes/roms/Final Fight.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Final Fight.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Final Fight.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1989</release>
+				<publisher>Capcom</publisher>
+				<gameplot>Final Fight is set in the fictional American metropolis of Metro City‚ where a former professional wrestler named Mike Haggar is elected Mayor‚ promising to handle the city's criminal problem in his campaign. The Mad Gear gang‚ the dominant criminal organization of the city‚ plots to bring Haggar under their control by kidnapping his daughter Jessica and using her as leverage against him. Enlisting the help of Cody‚ Jessica's boyfriend and a Martial Arts master himself‚ as well as Cody's sparring partner‚ a Ninjutsu master named Guy‚ Haggar opts to fight the gang instead in order to save his daughter.</gameplot>
+			</rom>
+			<rom>
+				<id>a6a8958e3bc9a3a3c024a1b09a6f4f38</id>
+				<name>Final Fight 3</name>
+				<filename>/media/data/games/snes/roms/Final Fight 3.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Final Fight 3.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Final Fight 3.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1995</release>
+				<publisher>Capcom</publisher>
+				<gameplot>Following the annihilation of the Mad Gear Gang‚ a new criminal element named the Skull Cross Gang emerges as the new dominant street gang in Metro City. When Guy returns to Metro City from his martial art training to become reacquainted with his friend Mike Haggar‚ the Mayor of Metro City‚ the two are suddenly informed that the Skull Cross Gang has started a riot in the downtown area of the city. Joined by Lucia‚ a detective in the Metro City Police's Special Crimes Unit‚ and Dean‚ a street fighter whose family was murdered by the Skull Cross Gang‚ Guy and Haggar must once again save Metro City from its newest menace.</gameplot>
+			</rom>
+			<rom>
+				<id>7ea1f2740e8f7d5689fb4a32884bce16</id>
+				<name>Flashback - The Quest for Identity</name>
+				<filename>/media/data/games/snes/roms/Flashback - the Quest for Identity.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Flashback - the Quest for Identity.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Flashback - the Quest for Identity.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1993</release>
+				<publisher>Delphine Software International</publisher>
+				<gameplot>2142 AD. Stranded on a bizarre alien planet with your memory artificially erased‚ you must battle your way back to Earth to stop the invading mutant forces...FLASHBACK... the ultimate test in survival.</gameplot>
+			</rom>
+			<rom>
+				<id>2e324c41b84242610cc3919e9930ba9b</id>
+				<name>James Pond - Aquatic Games</name>
+				<filename>/media/data/games/snes/roms/James Pond - Aquatic Games.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/James Pond - Aquatic Games.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/James Pond - Aquatic Games.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>9a47039f779320eba60e92e086d3b5d2</id>
+				<name>James Pond 2</name>
+				<filename>/media/data/games/snes/roms/James Pond 2.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/James Pond 2.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/James Pond 2.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>f185ea3e41b3731e791bb82e3908b523</id>
+				<name>James Pond 3: Operation Starfish</name>
+				<filename>/media/data/games/snes/roms/James Pond.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/James Pond.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/James Pond.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Platform</genre>
+				<release>1993</release>
+				<publisher>Millenium</publisher>
+				<gameplot>Unlike the  first game of the series‚ that was a mission-based game‚ and the  second one‚ where your character had unique abilities such as observing the whole level and growing to unlimited height‚ "James Pond 3" is a standard jump and run platform game. Pond can run very quickly (by holding down the A button) through large levels‚ which often contain steep mountain sides and other tricky areas. Once again‚ he has to oppose the evil scientist Maybe and his minions.</gameplot>
+			</rom>
+			<rom>
+				<id>839b6200e3d7773d1b5dedd547709c09</id>
+				<name>James Pond 3: Operation Starfish</name>
+				<filename>/media/data/games/snes/roms/James Pond 3 - Operation Starfish.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/James Pond 3 - Operation Starfish.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/James Pond 3 - Operation Starfish.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Platform</genre>
+				<release>1993</release>
+				<publisher>Millenium</publisher>
+				<gameplot>Unlike the  first game of the series‚ that was a mission-based game‚ and the  second one‚ where your character had unique abilities such as observing the whole level and growing to unlimited height‚ "James Pond 3" is a standard jump and run platform game. Pond can run very quickly (by holding down the A button) through large levels‚ which often contain steep mountain sides and other tricky areas. Once again‚ he has to oppose the evil scientist Maybe and his minions.</gameplot>
+			</rom>
+			<rom>
+				<id>d234a4e4ecbc95aaba0323862fe7775a</id>
+				<name>James Pond's Crazy Sports</name>
+				<filename>/media/data/games/snes/roms/James Pond's Crazy Sports.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/James Pond's Crazy Sports.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/James Pond's Crazy Sports.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Sports</genre>
+				<release>1993</release>
+				<publisher>Millenium</publisher>
+				<gameplot>Beschreibung (Verpackungstext)Get Ready... Get Set... Get Wet!Perilous missions‚ wicked villains‚ and gorgeous mermaids make up the everyday life of an Underwater Agent. But even the top FISH operative needs an occasional break from the undersea grottos of international intrique!FISH agents are no wet blankets when it comes to leisure time. They'd rather hook onto some i]fun furious action[/i] than lie in the sun like a bunch of beached whales. That's why they started the Super Aquatic Games - 8 Competitive Events‚ a Bonus Event‚ and a Secret Special Event that really separates the men from the minnows!So start pumping those gills and aim for the Fin-ish Line - it's time to go for the gold (fish)!</gameplot>
+			</rom>
+			<rom>
+				<id>e004a4a5730d4d94355da4fcf7f2635a</id>
+				<name>Kirby - Super-Star Deluxe</name>
+				<filename>/media/data/games/snes/roms/Kirby - Super-Star Deluxe.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Kirby - Super-Star Deluxe.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Kirby - Super-Star Deluxe.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>76973efc5299b54d325b653b30aacad0</id>
+				<name>Legend of Zelda: A Link to the Past, The</name>
+				<filename>/media/data/games/snes/roms/Zelda - a Link to the Past.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Zelda - a Link to the Past.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Zelda - a Link to the Past.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Role-Playing</genre>
+				<release>1991</release>
+				<publisher>Nintendo EAD</publisher>
+				<gameplot>At the beginning of the game‚ a young boy named Link is awakened by a telepathic message from Princess Zelda‚ who says that she is locked in the dungeon of Hyrule Castle. As the message closes‚ Link finds his uncle ready for battle‚ telling Link to remain in bed. After his uncle leaves‚ however‚ Link ignores his uncle's command and follows him to Hyrule Castle. When he arrives‚ he finds his uncle seriously wounded. Link's uncle tells Link to rescue Princess Zelda from her prison‚ giving him a sword and shield. After his uncle dies‚ Link navigates the castle and rescues Zelda from her cell‚ and the two escape into a secret passage through the sewers that leads to a sanctuary.Link is told by a man in the sanctuary that Agahnim‚ a wizard who has usurped the throne‚ is planning to break a seal made hundreds of years ago by the Seven Sages. The seal was placed to imprison a dark wizard named Ganon in the Dark World‚ which was once the Sacred Realm before Ganon invaded‚ obtained the legendary Triforce and used its power to turn the realm into a land of darkness. Agahnim intends to break the seal by sending the descendants of the Seven Sages who made the seal into the Dark World. The only thing that can defeat him is the Master Sword‚ a sword forged to combat evil. To prove that he is worthy to wield it‚ Link needs three magic pendants. After retrieving the pendants‚ Link takes them to the resting place of the Master Sword. As Link draws the sword from its pedestal‚ Zelda telepathically calls him to the Sanctuary‚ informing him that soldiers of Hyrule Castle have arrived. Link arrives at the Sanctuary moments after the soldiers have vacated‚ where he learns from the dying man that Zelda has been taken to Hyrule Castle. Link goes to rescue her but arrives too late; Agahnim sends Zelda to the Dark World. Link then defeats Agahnim in battle but is subsequently also sent to the Dark World.To save Hyrule‚ Link is required to rescue the seven descendants of the Seven Sages from dungeons scattered across the Dark World. Once the seven maidens are freed‚ they use their power to break the barrier around Ganon's Tower‚ where Link faces Agahnim again. After Link battles Agahnim for a second time‚ Ganon rises up from Agahnim's body‚ turns into a bat‚ and flies away. Link chases him‚ finally confronting him inside the Pyramid of Power in the Dark World. After a battle resulting in Ganon's demise‚ Link touches the Triforce and restores Hyrule to how it was before Ganon intervened.</gameplot>
+			</rom>
+			<rom>
+				<id>989387fc463f8e4d7004a6e14799fa27</id>
+				<name>Lion King, The</name>
+				<filename>/media/data/games/snes/roms/Lion King.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Lion King.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Lion King.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1994</release>
+				<publisher>Virgin Interactive</publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>c1b7d237338706a3e840d19f3b6cbd5d</id>
+				<name>Lost Vikings 2</name>
+				<filename>/media/data/games/snes/roms/Lost Vikings 2.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Lost Vikings 2.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Lost Vikings 2.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>430ce658aa5673bc8619784ff8e3d6be</id>
+				<name>Lost Vikings, The</name>
+				<filename>/media/data/games/snes/roms/Lost Vikings.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Lost Vikings.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Lost Vikings.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Platform / Strategy</genre>
+				<release>1992</release>
+				<publisher>Silicon &amp; Synapse</publisher>
+				<gameplot>Three Vikings‚ Eric the Swift‚ Olaf the Stout and Baleog the Fierce‚ were kidnapped by the alien Tomator‚ the evil Croutonian ruler‚ who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator‚ as well as a vast array of aliens‚ robots‚ giant snails‚ big lizards and more.The Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump‚ run‚ shoot‚ collect items‚ flip switches and so on‚ there are three different characters‚ each with his own skills. Eric the Swift can jump‚ run and bash through walls with his tough helmet. Olaf the Stout has a shield which can block attacks‚ function as an air glider or as a step to stand on. Baleog the Fierce can shoot things with his arrows (including switches) or kill things with his sword. The player has to use the three Vikings as a team if he wants to get past the increasingly difficult levels and puzzles.The player controls one Viking at a time‚ but can switch between them at any point. The Vikings have limited space in their inventory which they can use to keep various items. Each Viking has three health points‚ and if he loses them all from confrontations with dangers‚ he dies (some threats kill instantly)‚ and the level must be restarted.</gameplot>
+			</rom>
+			<rom>
+				<id>e599bf1073b63311c416e7aa76674958</id>
+				<name>Magical Pop'n</name>
+				<filename>/media/data/games/snes/roms/Magical Pop'n (ENG).zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Magical Pop'n (ENG).jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Magical Pop'n (ENG).jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>d1d3827d992ff9e4a420e5da825107f4</id>
+				<name>Marvel Super Heroes: War of the Gems</name>
+				<filename>/media/data/games/snes/roms/Marvel Super Heroes - War of the Gems.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Marvel Super Heroes - War of the Gems.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Marvel Super Heroes - War of the Gems.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Platform</genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot>The most powerful collection of MARVEL SUPER HEROES now unite to battle treacherous mobs of Super-Villians! A mysterious foe has kicked off his plan to rule the world by collecting the Infinity Gems. While each gem controls one force of nature‚ combined they command limitless power.The fate of the entire world depends on your ability to defeat this sinister scheme before the gems are combined. Master the brute strength of your favorite hero to take on this life and death challenge. You choose the hero best suited to each mission and control all the action‚ like breaking barriers with the Incredible Hulk or tackling challenges with Spider-Man's webs and climbing ability.It's an incredible action-adventure demanding skill‚ cunning and reflexes to defeat a diabolical plot and the most amazing assortment of corrupt Super-Villains ever assembled.</gameplot>
+			</rom>
+			<rom>
+				<id>b86f51fef328680bd86f6936a894015d</id>
+				<name>Micro Machines</name>
+				<filename>/media/data/games/snes/roms/Micro Machines.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Micro Machines.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Micro Machines.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>c41d2d9a60607891e981cf4b7a52a625</id>
+				<name>Micro Machines 2 - Turbo Tournament</name>
+				<filename>/media/data/games/snes/roms/Micro Machines 2 - Turbo Tournament.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Micro Machines 2 - Turbo Tournament.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Micro Machines 2 - Turbo Tournament.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Racing</genre>
+				<release>1995</release>
+				<publisher>Ocean</publisher>
+				<gameplot>The second game of the Micro Machines series. Like in its predecessor‚ you behind the steering wheel of an extremely small car. You race around on interesting places‚ like a table‚ a treehouse and many more. The control of the cars is sometimes quite difficult‚ especially if you don't know the tracks (the top-down view is not very clear). The CD-ROM version additionally features CD-Audio music and a track editor.</gameplot>
+			</rom>
+			<rom>
+				<id>4337a10d4fdf2679041de87bdae2e9b8</id>
+				<name>Mortal Kombat</name>
+				<filename>/media/data/games/snes/roms/Mortal Kombat.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Mortal Kombat.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Mortal Kombat.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release></release>
+				<publisher>Midway</publisher>
+				<gameplot>The series takes place in a fictional universe that consists of six surviving realms which‚ according to in-game backstories‚ were created by the Elder Gods. The Mortal Kombat: Deception manual described the six realms as: "Earthrealm‚ home to such legendary heroes as Johnny Cage‚ Sonya Blade‚ Liu Kang‚ and Jax‚ and also under the protection of the Thunder God Raiden; Netherrealm‚ which fiery depths are inhospitable to but the most vile‚ a realm of demons and shadowy warriors; Outworld‚ a realm of constant strife and where Emperor Shao Kahn claims this realm as his own; Seido‚ The Realm of Order‚ whose inhabitants prize structure and order above all else; The Realm of Chaos‚ whose inhabitants do not abide by any rules whatsoever‚ where constant turmoil and change are worshipped here; and Edenia‚ which is known for its beauty‚ artistic expression‚ and longevity of its inhabitants."</gameplot>
+			</rom>
+			<rom>
+				<id>73d3dcfca2eeacf770c5fa7d5ce75f9c</id>
+				<name>Mortal Kombat 2</name>
+				<filename>/media/data/games/snes/roms/Mortal Kombat 2.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Mortal Kombat 2.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Mortal Kombat 2.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>01ae36f2cc6ecf7199d97f9149d1e3ad</id>
+				<name>Mortal Kombat 3</name>
+				<filename>/media/data/games/snes/roms/Mortal Kombat 3.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Mortal Kombat 3.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Mortal Kombat 3.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release></release>
+				<publisher>Midway</publisher>
+				<gameplot>Fed up with continuous losses in tournament battle‚ Shao Kahn‚ who had lost to Liu Kang in the Outworld tournament‚ enacts a 10‚000 year-old plan. He would have his Shadow Priests‚ led by Shang Tsung‚ revive his former Queen Sindel‚ who unexpectedly died at a young age. However‚ she wouldn't be revived in the Outworld. She would be resurrected in the Earthrealm. This would allow Shao Kahn to cross the boundary lines and reclaim his queen.When Sindel is reincarnated in Earthrealm‚ Shao Kahn reaches across the dimensions to reclaim her. As a consequence of his action‚ the Earthrealm becomes a part of the Outworld‚ instantly stripping billions of their souls. Only a few are spared‚ as Raiden protects their souls. He tells them that Shao Kahn must be stopped‚ but he cannot interfere; due to his status‚ he has no power in Outworld‚ and Earthrealm is partially merged with Outworld.Shao Kahn has unleashed extermination squads to roam throughout the Earthrealm and kill any survivors. Also‚ Raiden's protection only extends to the soul‚ not to the body‚ so his chosen warriors have to fight the extermination squads and repel Shao Kahn. Eventually with his final defeat‚ every human on Earthrealm comes back.Mortal Kombat 3 follows Mortal Kombat II and shares continuity with both Ultimate Mortal Kombat 3 and Mortal Kombat Trilogy which were both updates of this game. The next new game in the series was Mortal Kombat 4.</gameplot>
+			</rom>
+			<rom>
+				<id>7fc04ecb650b8a3ef67f29ec7a59223a</id>
+				<name>Pirates of Dark Water, The</name>
+				<filename>/media/data/games/snes/roms/Pirates of Dark Water.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Pirates of Dark Water.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Pirates of Dark Water.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1994</release>
+				<publisher>Sunsoft</publisher>
+				<gameplot>The watery world of Mer is threatened by the deadly Dark Water. Prince Ren and his companions must find the Treasures of Rule to control the Dark Water and return Mer to its former glory. Always hot on their heels is the evil pirate-lord Bloth who wants to find the treasures to rule over Mer.Based on a cartoon series by the same name‚ The Pirates of Dark Water is a side scrolling fighting game similar to Final Fight or Streets of Rage.The player chooses a character‚ from among Prince Ren and his two companions Tula and Ioz‚ who differ in strength and agility‚ but who use the same basic attacks. There are two attack buttons‚ one for fast attacks and combinations and one for a single heavy attack. Other controls include: blocking attacks‚ grabbing and throwing opponents‚ dash attacks while running‚ and a special attack that hits multiple enemies consuming life energy at the same time. Most levels also require you to avoid obstacles like chasms‚ falling rocks or spikes that shoot out of the ground.</gameplot>
+			</rom>
+			<rom>
+				<id>7ba30f37b6d6426d6ceda452b2df48a3</id>
+				<name>Spider-Man and Venom: Maximum Carnage</name>
+				<filename>/media/data/games/snes/roms/Spider-Man and Venom - Maximum Carnage.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Spider-Man and Venom - Maximum Carnage.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Spider-Man and Venom - Maximum Carnage.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action</genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot>Spider-Man &amp; Venom: Maximum Carnage is a Beat-'Em-Up game‚ developed by Software Creations and published by LJN Ltd.‚ which was released in 1994.</gameplot>
+			</rom>
+			<rom>
+				<id>b4fb0f09713d649759b512be6b9aa188</id>
+				<name>Street Fighter Alpha 2</name>
+				<filename>/media/data/games/snes/roms/Street-Fighter Alpha 2.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Street-Fighter Alpha 2.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Street-Fighter Alpha 2.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Fighting</genre>
+				<release>1996</release>
+				<publisher>Capcom</publisher>
+				<gameplot>DO YOU HAVE WHAT IT TAKES?The bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants‚ some old and some new‚ are here to lay claim to the title "World's Best". Screamin' moves like Ken's Dragon Punch‚ Adon's Jaguar Tooth and M. Bison's Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain't no cakewalk. This ain't no cakewalk. This is Street Fighter Alpha 2 and it's blazing on your Super NES!</gameplot>
+			</rom>
+			<rom>
+				<id>701f38db3bf599f31775540624b10e65</id>
+				<name>Street-Fighter 2 - Turbo</name>
+				<filename>/media/data/games/snes/roms/Street-Fighter 2 - Turbo.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Street-Fighter 2 - Turbo.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Street-Fighter 2 - Turbo.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>fef5ba29f12f311650aa832118eafb29</id>
+				<name>Super Bomberman</name>
+				<filename>/media/data/games/snes/roms/Bomber-Man.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Bomber-Man.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Bomber-Man.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>ba68ff6f72a7f6ce2bc52b42b80442c8</id>
+				<name>Super Bomberman 2</name>
+				<filename>/media/data/games/snes/roms/Bomber-Man 2.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Bomber-Man 2.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Bomber-Man 2.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action</genre>
+				<release>1994</release>
+				<publisher>Hudson Soft</publisher>
+				<gameplot>Five evil cyborgs‚ called the "Five Dastardly Bombers" are bent on taking over the universe. At the planet Earth‚ they capture the original Bomberman‚ and he is placed in a prison cell in their base. He awakens in the dungeon of Magnet Bomber and must fight his way to a final showdown with the Magnet Bomber himself. In the following four levels‚ Bomberman will challenge Golem Bomber‚ Pretty Bomber‚ Brain Bomber‚ and their leader‚ Plasma Bomber in an effort to free the Earth of these alien invaders as well as save himself.</gameplot>
+			</rom>
+			<rom>
+				<id>68150ca4913485d6c644629edb0c3e1f</id>
+				<name>Super Bomberman 3</name>
+				<filename>/media/data/games/snes/roms/Bomber-Man 3.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Bomber-Man 3.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Bomber-Man 3.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Strategy / Fighting</genre>
+				<release>1995</release>
+				<publisher>Hudson Soft</publisher>
+				<gameplot>This game scales back a lot of gameplay additions made in Super Bomberman 2 and returns to the classic formula. As for multiplayer‚ the game adds a lot over the previous game by adding more characters‚ each representing a country of Earth (including one of the villains‚ Pretty Bomber‚ as France‚ which marks her first appearance as a non-enemy character). There are also new cutscenes for the Story mode‚ which centers around the resurrection of the Five Dastardly Bombers who were previously defeated in Super Bomberman 2‚ as Shirobon and Kurobon adventure across various element themed stars in which the Five are causing havoc‚ under the rule of their creator‚ Bagular.</gameplot>
+			</rom>
+			<rom>
+				<id>6908b53bbefe775fb2845ac99657c332</id>
+				<name>Super Mario Kart</name>
+				<filename>/media/data/games/snes/roms/Mario Kart.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Mario Kart.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Mario Kart.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Racing</genre>
+				<release>1992</release>
+				<publisher>Nintendo</publisher>
+				<gameplot>The Super Mario GoKart Park is open for tons of racing fun! Hit the track with Mario‚ Luigi‚ Yoshi and the Princess. Get tough and lock fenders with Donkey Kong‚ Jr. and Bowser. Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup! Race head-to-head with a friend or challenge the computer in great‚ split-screen‚ Mode 7 graphics.</gameplot>
+			</rom>
+			<rom>
+				<id>530679a3b3bb06d9de7ea717b0381522</id>
+				<name>Super Mario RPG: Legend of the Seven Stars</name>
+				<filename>/media/data/games/snes/roms/Mario R.P.G. - Legend of the Seven Stars.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Mario R.P.G. - Legend of the Seven Stars.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Mario R.P.G. - Legend of the Seven Stars.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Role-Playing</genre>
+				<release>1996</release>
+				<publisher>Square</publisher>
+				<gameplot>Set in the Mushroom Kingdom and featuring its cast of well-known characters‚ this adventure RPG begins with a familiar scenario: Mario must rescue Princess Toadstool from Bowser. However‚ a mysterious new enemy named Smithy soon appears‚ and Mario and Bowser are forced to fight as allies for the first time in their long history. In the quest to defeat their powerful new foe‚ they’ll journey across a wide variety of locations (a town of mining moles‚ a tropical forest‚ a thundering waterfall—just to name a few) and tackle a mix of obstacles requiring both expert timing and strategy to overcome. Along the way‚ they’ll gain experience and grow more powerful‚ while also meeting new characters whose unique abilities will be needed to take on Smithy and his gang.</gameplot>
+			</rom>
+			<rom>
+				<id>9ee49f431b97bf76f94e165eb8c02105</id>
+				<name>Super Mario World 2: Yoshi's Island</name>
+				<filename>/media/data/games/snes/roms/Mario World 2 - Yoshi's Island.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Mario World 2 - Yoshi's Island.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Mario World 2 - Yoshi's Island.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Adventure</genre>
+				<release>1995</release>
+				<publisher>Nintendo</publisher>
+				<gameplot>The Evil Magikoopa‚ Kamek‚ is out to kidnap Baby Mario! In this sequel to Super Mario World‚ you play as Yoshi. Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions. Enjoy the various backgrounds of the rich and vibrant locales of Yoshi's Island as you race to complete your quest.Is Yoshi up to the momentous task at hand? Help him toss his eggs‚ manipulate unique objects and solve puzzling situations! When in doubt‚ don't be afraid to try EVERYTHING!!</gameplot>
+			</rom>
+			<rom>
+				<id>34889d2574b151064052ab749afe3e85</id>
+				<name>Super Punch-Out!!</name>
+				<filename>/media/data/games/snes/roms/Super Punch-Out!!.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Super Punch-Out!!.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Super Punch-Out!!.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Sports</genre>
+				<release>1994</release>
+				<publisher>Nintendo</publisher>
+				<gameplot>Slug your way through the grueling and sweat-pounding matches of the Minor‚ Major and World Circuits. Dodge bone-bruising punches and dance to the top of the supreme Special Circuit. Face off against old favorites including Bear Hugger‚ Piston Hurricane‚ Bald Bull‚ Mr. Sandman and Super Macho Man plus a cast of new and weird challengers. With a right hook! Body blow! And precise quick jabs! The referee announces "Knock Out!" Your opponent lies face down as you win the title of Nintendo Video Boxing Association Champion!</gameplot>
+			</rom>
+			<rom>
+				<id>697a9f1a92f9f7329310f2cdeb0b05b2</id>
+				<name>Teenage Mutant Ninja Turtles 4 - Turtles in Time</name>
+				<filename>/media/data/games/snes/roms/Teenage Mutant Ninja Turtles 4 - Turtles in Time.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Teenage Mutant Ninja Turtles 4 - Turtles in Time.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Teenage Mutant Ninja Turtles 4 - Turtles in Time.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>ac71c519c6a9d003da2400b7d4d22131</id>
+				<name>Teenage Mutant Ninja Turtles: Tournament Fighters</name>
+				<filename>/media/data/games/snes/roms/Teenage Mutant Ninja Turtles - Tournament Fighters.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Teenage Mutant Ninja Turtles - Tournament Fighters.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Teenage Mutant Ninja Turtles - Tournament Fighters.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>3f71cd485d124ba129ac4526db9b4b18</id>
+				<name>Tetris Attack</name>
+				<filename>/media/data/games/snes/roms/Tetris Attack.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Tetris Attack.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Tetris Attack.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>260f21ed704eff71dd091709797dadb7</id>
+				<name>Wayne's World</name>
+				<filename>/media/data/games/snes/roms/Wayne's World.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Wayne's World.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Wayne's World.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>bc3817865c66249df072b8295667a355</id>
+				<name>Worms</name>
+				<filename>/media/data/games/snes/roms/Worms.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Worms.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Worms.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>b24196906d32cf05668a0db7898341a1</id>
+				<name>Zombies Ate My Neighbors</name>
+				<filename>/media/data/games/snes/roms/Zombies Ate My Neighbors.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Zombies Ate My Neighbors.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Zombies Ate My Neighbors.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre>Action / Shooter</genre>
+				<release>1993</release>
+				<publisher>LucasArts</publisher>
+				<gameplot></gameplot>
+			</rom>
+			<rom>
+				<id>df6d6d573cc88a8c4efe9fe7d4d0fd8a</id>
+				<name>Zool</name>
+				<filename>/media/data/games/snes/roms/Zool.zip</filename>
+				<platform>Super Nintendo Entertainment System</platform>
+				<thumb>/media/data/games/snes/extra/thumb/Zool.jpg</thumb>
+				<fanart>/media/data/games/snes/extra/fanart/Zool.jpg</fanart>
+				<extrafanart>/media/data/games/snes/extra/fanart/</extrafanart>
+				<genre></genre>
+				<release></release>
+				<publisher></publisher>
+				<gameplot></gameplot>
+			</rom>
+		</roms>
+	</launcher>
+</launchers>

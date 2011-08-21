@@ -6,9 +6,9 @@
 		<application>/bin/bash</application>
 		<args>"%rom%"</args>
 		<rompath>${path}/_settings/</rompath>
-		<thumbpath>${path}/_common/launcherThumb/</thumbpath>
-		<fanartpath>${path}/_common/launcherThumb2/</fanartpath>
-		<extrafanartpath>${path}/_common/launcherThumb2/</extrafanartpath>
+		<thumbpath></thumbpath>
+		<fanartpath></fanartpath>
+		<extrafanartpath></extrafanartpath>
 		<romext>sh</romext>
 		<platform>Linux</platform>
 		<thumb>${path}/_settings/settings-icon.png</thumb>

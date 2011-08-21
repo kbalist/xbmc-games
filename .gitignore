@@ -1,8 +1,10 @@
 .AppleDouble
 ._*
-
+*.BIN
 *.bin
 *.iso
 *.img
 *.gcm
 *.zip
+*.nes
+fullset
