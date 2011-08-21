@@ -30,7 +30,7 @@ def browseEmulator(emulator):
 #		print 'getExtras'
 #	print u
 
-def browseAllEmulators(root = GAMESPATH):
+def browseAllEmulators(root):
 	if not os.path.isdir(root):
 		return False
 
