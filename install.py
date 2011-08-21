@@ -13,6 +13,39 @@ print " => RetroGamez Wizzard <="
 
 
 
+
+def browseEmulator(emulator):
+	print emulator
+
+	path = os.path.join(GAMESPATH, emulator)
+	u = os.listdir(path)
+	if EMULAUNCHER not in u:
+		print "  No launcher Found at : ", os.path.join(path, EMULAUNCHER)
+
+	if EMUCONFIG in u:
+		print "  OK config found at : ", os.path.join(path, EMUCONFIG)
+
+	if 'extra' in u:
+		pass
+#		print 'getExtras'
+#	print u
+
+def browseAllEmulators(root = GAMESPATH):
+	if not os.path.isdir(root):
+		return False
+
+	emulators = []
+	u = os.listdir(root)
+	for e in u:
+		if os.path.isdir( os.path.join( root, e ) ) and e not in DIRBLACKLIST:
+#			if query_yes_no("Add " + e + " to emulator Scan ?", default = "yes"):
+#				emulators.append(e)
+			emulators.append(e)
+
+	for emulator in emulators:
+		browseEmulator(emulator)
+
+
 ''''''
 def findConf(soft):
 	applications = {
@@ -47,13 +80,12 @@ def linkConf(console):
 	return ""
 
 ''''''
-def install(root):
+def install( root = os.getcwd() ):
 	if not os.path.isfile(TPL):
 		error("NO TEMPLATE FOUND FOR CONF : ",TPLFILE)
 		return False
 	conffile = createXMLConf(root)
 	checkXMLConf(conffile)
-	
 
 
 def createXMLConf(confpath):
@@ -77,11 +109,12 @@ def checkXMLConf(conffile):
 		checkXMLNodeFileExist(dom, e)
 	return True
 
+
+############### LOW LEVEL ###############
+
 def error(msg):
 	print "[!] WARNING : ", msg
 	return False
-
-
 
 def checkXMLNodeFileExist(dom, search):
 	app = dom.getElementsByTagName(search)
@@ -96,8 +129,35 @@ def checkXMLNodeFileExist(dom, search):
 def getXMLText(node):
 	return node.childNodes[0].nodeValue
 
+def query_yes_no(question, default="yes"):
+    valid = {"yes":True,   "y":True,  "ye":True,
+             "no":False,     "n":False}
+    if default == None:
+        prompt = " [y/n] "
+    elif default == "yes":
+        prompt = " [Y/n] "
+    elif default == "no":
+        prompt = " [y/N] "
+    else:
+        raise ValueError("invalid default answer: '%s'" % default)
 
-install(os.getcwd())
+    while True:
+        sys.stdout.write(question + prompt)
+        choice = raw_input().lower()
+        if default is not None and choice == '':
+            return valid[default]
+        elif choice in valid:
+            return valid[choice]
+        else:
+            sys.stdout.write("Please respond with 'yes' or 'no' (or 'y' or 'n').\n")
+
+############### LOW LEVEL ###############
+
+if len(sys.argv) < 2:
+	install()
+else:
+	install()
+
 
 '''
 echo "* SETTINGS"
